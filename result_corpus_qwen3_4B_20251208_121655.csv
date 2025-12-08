@@ -1,0 +1,1015 @@
+url,type,text,flesch_original,qwen3_4B_zero_shot_summary,qwen3_4B_zero_shot_flesch,qwen3_4B_zero_shot_bert_f1,qwen3_4B_zero_shot_compression_ratio,qwen3_4B_zero_shot_with_instructions_summary,qwen3_4B_zero_shot_with_instructions_flesch,qwen3_4B_zero_shot_with_instructions_bert_f1,qwen3_4B_zero_shot_with_instructions_compression_ratio,qwen3_4B_one_shot_summary,qwen3_4B_one_shot_flesch,qwen3_4B_one_shot_bert_f1,qwen3_4B_one_shot_compression_ratio,qwen3_4B_chain_of_thought_summary,qwen3_4B_chain_of_thought_flesch,qwen3_4B_chain_of_thought_bert_f1,qwen3_4B_chain_of_thought_compression_ratio,qwen3_4B_role_playing_summary,qwen3_4B_role_playing_flesch,qwen3_4B_role_playing_bert_f1,qwen3_4B_role_playing_compression_ratio
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=968828&numVersao=1&numProtocolo=1444116&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"O Banco do Brasil S.A. (BB) aprovou, em 10/11/2025, a distribuição de R$ 410.587.269,98 a título de remuneração aos acionistas sob a forma de Juros sobre Capital Próprio (JCP), relativo ao terceiro trimestre de 2025, conforme abaixo: 
+JCP (R$) por ação 
+Ações BB – ON 
+R$ 0,07192713139 
+Os valores serão pagos em 11/12/2025, tendo como base a posição acionária de 01/12/2025, sendo as ações negociadas “ex” a partir de 02/12/2025. 
+O procedimento de pagamento será conforme segue: 
+• O crédito será por conta corrente, poupança-ouro ou por caixa. Os acionistas cujos cadastros estejam desatualizados terão suas remunerações retidas até a efetiva regularização de seus registros em uma das agências do BB. A regularização cadastral poderá ser efetuada mediante a apresentação de documento de identidade, CPF e comprovante de residência, se pessoa física, ou estatuto/contrato social e prova de representação, se pessoa jurídica.  
+• Aos acionistas com ações custodiadas na Central Depositária da B3, os valores serão pagos àquela entidade, que os repassará aos acionistas titulares, por meio de seus respectivos agentes de custódia. 
+• No caso do JCP, haverá retenção de imposto de renda na fonte sobre o valor nominal de acordo com a legislação vigente. Os acionistas dispensados da referida tributação deverão comprovar esta condição até 03/12/2025 em uma das agências do BB. 
+Estamos à disposição para maiores esclarecimentos no website www.bb.com.br/ri, no Serviço de Atendimento ao Acionista da Central de Atendimento BB – telefone 4004 0001 (Capitais e Regiões Metropolitanas) ou 0800 729 0001 (Demais localidades) ou nas agências do Banco do Brasil.","56,93","O Banco do Brasil aprovou, em 10/11/2025, pagar R$ 410,587,269,98 aos acionistas como juros sobre capital próprio (JCP) referentes ao terceiro trimestre de 2025. Cada ação do BB recebendo R$ 0,0719. O pagamento ocorrerá em 11/12/2025, com base na posição de ações em 01/12/2025, e as ações serão negociadas “ex” a partir de 02/12/2025.  
+
+O dinheiro será pago por conta corrente, poupança-ouro ou em caixa. Acionistas com dados desatualizados terão o pagamento retido até regularizar seus cadastros com documentos como RG, CPF e comprovante de residência (pessoas físicas) ou estatuto e prova de representação (pessoas jurídicas).  
+
+Ações custodiadas na B3 serão pagas pela entidade aos titulares por meio de seus agentes de custódia. O imposto de renda será retido automaticamente; acionistas isentos devem comprovar isso até 03/12/2025 em uma agência do BB.  
+
+Mais informações estão disponíveis no site www.bb.com.br/ri, pelo serviço de atendimento ao acionista pelo telefone 4004 0001 (capitais) ou 0800 729 0001 (outros lugares), ou nas agências do BB.","67,26","0,789","0,631","Em 10/11/2025, o BB aprovou o pagamento aos donos de ações por JCP.  
+
+O valor por ação é de R$ 0,07192713139, distribuído no terceiro trimestre de 2025.  
+
+Os acionistas receberão o pagamento em 11/12/2025, com base na posição de 01/12/2025.  
+
+O dinheiro será credenciado em conta corrente, poupança-ouro ou caixa, com retardo para quem não tem dados atualizados.  
+
+Apenas os acionistas com ações na B3 receberão por meio da Central de Custódia.  
+
+Os acionistas dispensados do imposto devem comprovar até 03/12/2025 em uma agência do BB.","81,02","0,755","0,337","O BB aprovou pagar R$ 410,587,269,98 aos donos de ações no terceiro trimestre de 2025.  
+O pagamento ocorrerá em 11/12/2025, com base na posição de ações de 01/12/2025.  
+Os acionistas devem regularizar seus cadastros para receberem o valor em tempo hábil.  
+O pagamento será feito por conta corrente, poupança-ouro ou caixa, conforme o cadastro.  
+Apenas os acionistas com ações na B3 receberão o valor por meio de seus agentes de custódia.  
+O imposto de renda será retido, e os isentos devem comprovar até 03/12/2025.","78,13","0,751","0,329","O Banco do Brasil aprovou a distribuição de JCP em 10/11/2025.  
+O valor por ação é de R$ 0,0719.  
+Pagamento ocorrerá em 11/12/2025.  
+Ações serão pagas ""ex"" a partir de 02/12/2025.  
+Valores serão pagos por conta corrente ou caixa.  
+Acesso a regularização é por documento e comprovação.","92,43","0,722","0,184","A empresa decidiu pagar aos acionistas um valor por ação, no terceiro trimestre de 2025.  
+O pagamento é de R$ 0,0719 por ação, totalizando cerca de R$ 410 milhões para todos os acionistas.  
+Os acionistas receberão o dinheiro em contas corrente, poupança-ouro ou no caixa do banco.  
+Se os registros estiverem desatualizados, o valor será retido até a regularização com documentos.  
+O pagamento será feito diretamente para a Central de Custódia da B3, que entrega para os acionistas.","55,99","0,750","0,306"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=940253&numVersao=1&numProtocolo=1415541&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Em conformidade com o § 4º do art. 157 da Lei nº 6.404, de 15 de dezembro de 1976, com a Resolução CVM nº 44, de 23 de agosto de 2021 e em complemento aos Fatos Relevantes divulgados em 19 de fevereiro de 2025 e 14 de agosto de 2025, o Banco do Brasil comunica que, em virtude da necessidade de convergência para o payout de 30% aprovado pela Administração em 13 de agosto de 2025, a remuneração dos acionistas referente ao terceiro trimestre de 2025 será paga integralmente em 11/12/2025, ou seja, não haverá pagamento antecipado referente ao período. 
+Fatos adicionais julgados relevantes serão prontamente divulgados ao mercado. ","56,04","De acordo com a Lei nº 6.404, de 15/12/1976, Resolução CVM nº 44, de 23/08/2021, e os Fatos Relevantes divulgados em 19/02/2025 e 14/08/2025, o Banco do Brasil informa que, por necessidade de alinhar ao payout de 30% aprovado em 13/08/2025, a remuneração dos acionistas do terceiro trimestre de 2025 será paga inteira em 11/12/2025, sem pagamento antecipado.  
+Fatos adicionais relevantes serão divulgados rapidamente ao mercado.","67,90","0,888","0,606","Seguindo as normas da CVM, o Banco do Brasil informa a remuneração dos acionistas.  
+
+A remuneração será paga integralmente em 11/12/2025, sem pagamento antecipado.  
+
+O ajuste ocorre para alinhar ao payout de 30% aprovado em 13/08/2025.  
+
+Os donos de ações receberão o pagamento no final do terceiro trimestre.  
+
+Quaisquer novos fatos relevantes serão informados ao mercado.","57,59","0,777","0,514","O Banco do Brasil informa que pagará os donos de ações em 11/12/2025.  
+Não haverá pagamento antecipado para o terceiro trimestre de 2025.  
+Essa decisão segue a regra de ajuste para 30% aprovada em 13/08/2025.  
+Os fatos relevantes serão informados ao mercado quando forem julgados importantes.","66,95","0,762","0,422","- Banco do Brasil paga dividendos de 30% em 11/12/2025.  
+- Pagamento é integral, sem antecipação.  
+- Decisão foi tomada em 13 de agosto de 2025.","84,71","0,701","0,239","A empresa decidiu não pagar os dividendos antecipadamente.  
+O pagamento completo será feito em 11 de dezembro de 2025.  
+Isso ocorre porque a administração precisou ajustar os pagamentos.  
+A empresa está alinhando o retorno aos acionistas com a meta de 30%.  
+Nenhum outro detalhe será divulgado por enquanto.  
+O banco informará se surgirem novos pontos importantes.","47,50","0,701","0,514"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=927686&numVersao=1&numProtocolo=1402974&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Em conformidade com o §4º do art. 157 da Lei nº 6.404, de 15 de dezembro de 1976, e com a Resolução CVM nº 44, de 23 de agosto de 2021, o Banco do Brasil S.A. (BB), informa que, nos termos do disposto no art. 30, inciso I, alínea “b” do seu Estatuto Social, o Sr. Gilson Alceu Bittencourt foi indicado para ocupar o cargo de Vice-Presidente de Agronegócios e Agricultura Familiar, em substituição ao Sr. Luiz Gustavo Braz Lage, que continuará exercendo suas funções regularmente até a investidura do indicado. 
+2. Gilson Bittencourt é agrônomo formado pela Universidade Federal do Paraná (UFPR), especialista em Análise de Políticas Públicas pela Universidade do Texas/EUA, e Mestre em Desenvolvimento Econômico pela Universidade Estadual de Campinas (Unicamp). Atualmente é Subsecretário de Política Agrícola e Negócios Agroambientais do Ministério da Fazenda, e membro do Conselho de Administração da Empresa Brasileira de Pesquisa Agropecuária (Embrapa), e do Conselho de Administração da Livelo. Foi Secretário de Agricultura Familiar no Ministério do Desenvolvimento Agrário, Secretário Adjunto de Política Econômica do Ministério da Fazenda, Secretário de Planejamento e Investimentos Estratégico do Ministério do Planejamento e Secretário Adjunto da Secretaria-Executiva da Casa Civil da Presidência da República. Trabalhou no Departamento de Estudos Sócio-Econômicos Rurais (DESER) com Política Agrícola e foi professor e consultor em crédito rural para Instituições Financeiras. Foi membro do Comitê de Auditoria da BrasilPrev, da BB Seguridade e da Embrapa, além de membro do Conselho Fiscal da BrasilCap e da Caixa Econômica Federal.  
+3. O processo de elegibilidade encontra-se em trâmite nas instâncias competentes de governança para posterior eleição pelo Conselho de Administração. 
+4.  Fatos adicionais considerados importantes serão prontamente divulgados ao mercado.","35,32","De acordo com a Lei nº 6.404/76 e a Resolução CVM nº 44/21, o Banco do Brasil informa que Gilson Alceu Bittencourt foi indicado para o cargo de Vice-Presidente de Agronegócios e Agricultura Familiar, substituindo Luiz Gustavo Braz Lage, que continuará com suas funções até a investidura. Gilson é agrônomo da UFPR, especialista em Análise de Políticas Públicas e mestre em Desenvolvimento Econômico. Atualmente é Subsecretário de Política Agrícola no Ministério da Fazenda e membro de conselhos como o da Embrapa e da Livelo. Já atuou em cargos importantes no governo, como Secretário de Agricultura Familiar e em instituições financeiras. O processo de aprovação está em andamento nas instâncias de governança e será votado pelo Conselho de Administração. Fatos adicionais serão divulgados ao mercado.","42,57","0,792","0,448","Segundo a lei e a resolução, o BB informa a nomeação de Gilson Bittencourt como Vice-Presidente de Agronegócios e Agricultura Familiar.  
+
+Gilson é agrônomo e especialista em políticas públicas, com formação em instituições federais e estrangeiras.  
+
+Seu cargo está sendo avaliado pelas instâncias de governança antes da votação no Conselho de Administração.  
+
+Ele atua em políticas agrárias e agroambientais no Ministério da Fazenda e em empresas como Embrapa e Livelo.  
+
+Outras informações importantes serão informadas ao mercado em tempo real.","36,04","0,749","0,289","O Banco do Brasil informa a nomeação de Gilson Bittencourt como Vice-Presidente de Agronegócios.  
+Ele tem formação em agronomia e experiência em políticas agrárias e negócios agroambientais.  
+A nomeação substitui Luiz Gustavo Braz Lage, que permanece no cargo até a investidura.  
+O processo está em análise nas instâncias de governança antes da aprovação.  
+Os fatos relevantes serão informados ao mercado assim que estiverem prontos.","43,01","0,699","0,231","Quem: Banco do Brasil (BB)  
+O quê: Indicou Gilson Bittencourt como vice-presidente de Agronegócios  
+Quando: Em conformidade com leis e resoluções vigentes  
+Quanto: Substitui Luiz Gustavo Braz Lage  
+
+Gilson Bittencourt foi indicado para vice-presidente.  
+É agrônomo e tem experiência em políticas agrárias.  
+Processo de aprovação está em andamento.","40,72","0,671","0,173","A empresa anunciou a nomeação de Gilson Bittencourt como novo vice-presidente de Agronegócios.  
+
+Ele tem formação em agronomia e experiência em políticas agrícolas e negócios agroambientais.  
+
+Bittencourt atua atualmente no Ministério da Fazenda e em conselhos de instituições como Embrapa e Livelo.  
+
+O processo de aprovação está sendo analisado pelas autoridades internas da empresa.  
+
+A empresa informará rapidamente se houver novos detalhes sobre a nomeação.","27,78","0,675","0,235"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=972620&numVersao=1&numProtocolo=1447908&descTipo=IPE&CodigoInstituicao=1,ATA_REUNIAO,"Em onze de novembro de dois mil e vinte e cinco, às nove horas e dez minutos, realizou-se reunião ordinária do Conselho de Administração do Banco do Brasil S.A. (CNPJ: 00.000.000/0001-91; NIRE: 5330000063-8), no Setor de Autarquias Norte, Quadra 5, Lote B, Torre Sul, 15º andar, Asa Norte - Brasília (DF), CEP 70040-912, sob a presidência por videoconferência da Sra. Anelize Lenzi Ruas de Almeida, com participação presencial dos Conselheiros Fabio Franco Barbosa Fernandes, Fernando Florêncio Campos, Marcio Luiz de Albuquerque Oliveira e Selma Cristina Alves Siqueira, e, por videoconferência, Elisa Vieira Leonel, Tarciana Paula Gomes Medeiros e Valmir Pedro Rossi. 
+Também estiveram presentes, como assessores do Conselho, o Sr. Alexandre Bocchetti Nunes, Diretor Jurídico, e o Sr. Iram Alves de Souza, Auditor Geral, nos termos do art. 18 de seu Regimento Interno. 
+Dando prosseguimento, o Conselho de Administração (CA):  
+• MANIFESTAÇÃO DA DIRETORIA DE CONTADORIA (COGER) – tomou conhecimento da manifestação da Coger acerca das Demonstrações Contábeis do 3T25, apresentada pelo Diretor de Contadoria, com a participação do Vice-Presidente de Gestão Financeira e Relações com Investidores. 
+• PARECER DO COMITÊ DE AUDITORIA (COAUD) – tomou conhecimento do parecer do Coaud acerca das Demonstrações Contábeis 3T25, apresentado pelo Coordenador do Comitê. 
+• RELATÓRIOS DA ADMINISTRAÇÃO 3T25 (BACEN/COSIF E IFRS) – aprovou os Relatórios da Administração nos padrões Bacen/Cosif e IFRS referentes ao 3T25. 
+• DEMONSTRAÇÕES CONTÁBEIS 3T25 – aprovou as Demonstrações Contábeis Individuais e Consolidadas no padrão Bacen/Cosif e as Demonstrações Contábeis Intermediárias Consolidadas Condensadas no padrão IFRS, referentes ao 3T25. 
+Foi registrada a ausência da Conselheira Elisa Vieria Leonel a partir desse momento da reunião.  
+• DECLARAÇÃO DE APETITE E TOLERÂNCIA A RISCOS (RAS) – aprovou a revisão ordinária da RAS, ano-base 2026. 
+• PLANO DE RECUPERAÇÃO E SAÍDA ORGANIZADA 2025 (PRSO) – aprovou i) a Autoavaliação da Capacidade de Recuperação e da Resolubilidade e o Plano de Ação para Eliminação ou Mitigação das Barreiras e Riscos à Recuperação e à Resolução,  itens complementares do Plano de Recuperação e Saída Organizada 2025, e seu encaminhamento ao Banco Central do Brasil; ii) a descrição sucinta dos itens aprovados anteriormente, a ser divulgada no site do BB; em atendimento às Resoluções BCB nº 440/24 e CMN nº 5187/24. 
+• AMERICAN DEPOSITARY RECEIPT (ADR) – aprovou nova reserva de ADRs destinados a lastrear o Programa de ADRs do Banco do Brasil S.A. no mercado de balcão organizado nos Estados Unidos, por meio do registro do Formulário F-6 junto à U.S. Securities and Exchange Commission. 
+• SUMÁRIO DE ATIVIDADES DA AUDITORIA INTERNA – tomou conhecimento do Sumário Executivo de Atividades da Auditoria Interna referente a out/2025, elaborado pela Auditoria Interna. 
+• PAINEL DE RISCOS – tomou conhecimento do Painel de Riscos referente a out/25 e das projeções para o próximo biênio, elaborado pela Vice-Presidência de Controles Internos e Gestão de Riscos. 
+Foi deliberado o seguinte item extrapauta: 
+• ELEIÇÃO DE MEMBRO DO COMITÊ DE PESSOAS, ELEGIBILIDADE, SUCESSÃO E REMUNERAÇÃO (COREM) - elegeu, como membro escolhido pelos integrantes do Conselho de Administração indicados pela União, para o mandato 2025/2027, nos termos do art. 3°, §1°, II, do Regimento Interno do Corem, tendo em vista o vencimento do mandato do Sr. Egídio Otmar Ames em 19.09.2025, o Sr. José Caetano de Andrade Minchillo, a seguir qualificado, em consonância com o art. 21, XVI, do Estatuto Social, e de acordo com o parecer Corem nº 2025/2180, de 05.11.2025, 
+esclarecido que o eleito atende às exigências legais e estatutárias e será investido no cargo nesta data. 
+José Caetano de Andrade Minchillo, brasileiro, nascido em 22.11.1966, administrador, casado sob o regime de comunhão de bens, inscrito no CPF/MF sob o nº 574.907.166-91, portador da Carteira de Identidade nº MG 2638961, expedida em 01.09.2004 pelo Instituto de Identificação do Estado de Minas Gerais. Endereço: SAUN, Quadra 5, Lote B, Edifício Banco do Brasil, Torre Norte, 16° andar, CEP 70040912 – Brasília (DF). 
+Ato contínuo, o Sr. José Caetano de Andrade Minchillo foi escolhido pelo Conselho de Administração como Coordenador Corem, em consonância com o disposto no art. 9º, caput, de seu Regimento Interno. 
+Nada mais havendo a tratar, a Sra. Presidente deu por encerrada a reunião às quatorze horas e doze minutos, da qual eu, Rodrigo Nunes Gurgel, Secretário, mandei lavrar esta ata que, lida e achada conforme, vai assinada por mim e pelos Conselheiros. 
+Ass.) Anelize Lenzi Ruas de Almeida, Elisa Vieira Leonel, Fabio Franco Barbosa Fernandes, Fernando Florêncio Campos, Marcio Luiz de Albuquerque Oliveira, Selma Cristina Alves Siqueira, Tarciana Paula Gomes Medeiros e Valmir Pedro Rossi.","53,31","Em 11 de novembro de 2025, às 9h10, o Conselho de Administração do Banco do Brasil reuniu-se por videoconferência, presidida pela Sra. Anelize Lenzi Ruas de Almeida, com participação presencial de Fabio Franco Barbosa Fernandes, Fernando Florêncio Campos, Marcio Luiz de Albuquerque Oliveira e Selma Cristina Alves Siqueira, e por videoconferência de Elisa Vieira Leonel, Tarciana Paula Gomes Medeiros e Valmir Pedro Rossi. Também estiveram presentes o diretor jurídico Alexandre Bocchetti Nunes e o auditor geral Iram Alves de Souza.
+
+O conselho:  
+- Tomou conhecimento da manifestação da Diretoria de Contadoria sobre as demonstrações contábeis do 3º trimestre de 2025.  
+- Tomou conhecimento do parecer do Comitê de Auditoria sobre as mesmas demonstrações.  
+- Aprovou os relatórios da administração em padrões Bacen/Cosif e IFRS.  
+- Aprovou as demonstrações contábeis individuais e consolidadas (Bacen/Cosif) e as intermediárias consolidadas condensadas (IFRS) do 3T25.  
+- Aprovou a revisão da declaração de appetite e tolerância a riscos (RAS) para o ano-base 2026.  
+- Aprovou a autoavaliação da capacidade de recuperação e o plano de ação para mitigar riscos, além de confirmar a divulgação dos itens aprovados no site do banco.  
+- Aprovou a nova reserva de ADRs para o mercado norte-americano.  
+- Tomou conhecimento do sumário de atividades da auditoria interna e do painel de riscos.  
+
+A Conselheira Elisa Vieira Leonel foi considerada ausente a partir desse momento.  
+
+O Conselho escolheu o Sr. José Caetano de Andrade Minchillo como membro do Corem, por ter sido indicado pela União, e por atender aos requisitos legais. O novo membro foi eleito para o período 2025-2027, substituindo Egídio Otmar Ames, cujo mandato termina em 19 de setembro de 2025. O Sr. Minchillo foi também designado como Coordenador do Corem.  
+
+A reunião foi encerrada às 14h12. A ata foi elaborada pelo Secretário Rodrigo Nunes Gurgel e assinada pelos conselheiros.","47,25","0,744","0,402","Em 11/11/2025, às 09h10, o Conselho de Administração do Banco do Brasil realizou reunião presencial e por videoconferência.  
+O Conselho tomou conhecimento da manifestação da Coger sobre as demonstrações contábeis do 3T25.  
+Aprovou os relatórios da administração em Bacen/Cosif e IFRS referentes ao 3T25.  
+Aprovou as demonstrações contábeis individuais e consolidadas no padrão Bacen/Cosif e as intermediárias no padrão IFRS.  
+Revisou a declaração de apetite e tolerância a riscos para o ano-base 2026.  
+Elegeu o Sr. José Caetano de Andrade Minchillo como membro do Corem e coordenador do comitê, com mandato de 2025 a 2027.","60,06","0,693","0,127","Reunião do Conselho de Administração foi realizada em 11/11/2025.  
+O CA revisou os relatórios contábeis e as demonstrações do 3T25.  
+Aprovou a revisão da declaração de riscos para o ano-base 2026.  
+Elegeu o Sr. José Caetano de Andrade Minchillo como membro do Corem.  
+O novo membro foi escolhido e nomeado como coordenador do Corem.  
+A reunião foi encerrada às 14h12 e registrada em ata.","74,97","0,647","0,085","- 11/11/2025, o Conselho de Administração do Banco do Brasil reuniu-se por videoconferência.  
+- Aprovou as demonstrações contábeis do 3T25 em padrões Bacen/Cosif e IFRS.  
+- Revisou a declaração de risco e aprovação do PRSO e da RAS.  
+- Escolheu José Caetano de Andrade Minchillo como novo membro do Corem.  
+- Designou o eleito como coordenador do Corem.  
+- A reunião foi encerrada às 14h12 e registrada em ata.","73,35","0,687","0,092","Em 11 de novembro, o banco realizou uma reunião com seus gestores.  
+Foi aprovado o relatório financeiro do terceiro trimestre de 2025.  
+O conselho revisou as políticas de riscos para o ano de 2026.  
+A empresa confirmou seus planos de saída organizada e recuperação.  
+Foi eleito um novo membro para um comitê de pessoas e sucessão.  
+O novo coordenador do comitê foi escolhido diretamente pelo conselho.","60,78","0,612","0,088"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=950313&numVersao=1&numProtocolo=1425601&descTipo=IPE&CodigoInstituicao=1,ATA_REUNIAO,"Em vinte e um de agosto de dois mil e vinte e cinco, às dez horas, realizou-se reunião extraordinária não presencial do Comitê de Pessoas, Elegibilidade, Sucessão e Remuneração (Corem) do Banco do Brasil S.A. (CNPJ: 00.000.000/0001-91), secretariada no Setor de Autarquias Norte, Quadra 5, Lote B, Torre Norte, 16º andar, Asa Norte, CEP 70040-912 - Brasília (DF), sob a coordenação do Sr. Egidio Otmar Ames, e com participação dos Sr(a)s. Daniele Russo Barbosa Feijó, Fábio Franco Barbosa Fernandes, Marcelo Gasparino da Silva e Rachel de Oliveira Maia. 
+2.  O Sr. Coordenador registrou que, conforme convocação, a ordem do dia se limitaria à apreciação da indicação adiante relacionada: 
+a) Fernando Florêncio Campos para o Comitê de Riscos e de Capital (Coris) do Banco do Brasil S/A., mandato 2025-2027 (2 anos), na qualidade de membro escolhido pelos Conselheiros de Administração eleitos pelos acionistas minoritários (art. 3°, §1°, II, do Regimento Interno do Coris). 
+3.         O Coordenador esclareceu que: 
+a) compete ao Corem, entre outras atribuições, verificar a conformidade do processo de indicação e opinar, de modo a auxiliar os acionistas na indicação de administradores e de Conselheiros Fiscais, e o Conselho de Administração na eleição de diretores e de membros de comitês de assessoramento ao referido Conselho sobre o preenchimento dos requisitos e a ausência de vedações para as respectivas eleições, nos termos do disposto no Estatuto Social, art. 34, §6º, IV e V, no art. 10 da Lei 13.303/2016, e no art. 21-I do Decreto 8.945/2016, com a redação do Decreto 11.048/2022; 
+b) os documentos do indicado foram disponibilizados no Portal de Governança, na forma usual. 
+4. Após o exame dos documentos, o Corem identificou e concluiu que: 
+a) a indicação do Sr. Fernando Florêncio Campos, está acompanhada da Ficha de Cadastro de Indicados ao Coris, dispensadas a análise prévia de compatibilidade e a aprovação prévia pela Casa Civil da Presidência da República, pois exigidas somente para cargos de administradores e conselheiros fiscais, conforme disposto no art. 22, II, do Decreto 8.945/2016, e art. 1°, caput e parágrafo único, da Resolução CGPAR n° 35/2022; 
+b) o processo está em conformidade, instruído com os documentos exigidos, que suportam as informações prestadas pelo indicado por meio da ficha de cadastro, que demonstrou possuir formação acadêmica, notório conhecimento, experiência profissional, reputação ilibada, idoneidade moral e capacidade técnica compatíveis com a função para a qual foi indicado, o que evidencia a aderência ao perfil desejado para o cargo sob preenchimento, e a inexistência de impedimentos e vedações, conforme previsto no art. 45, §5°, I a IV da Resolução CMN 4.557/2017; art. 2°, VI e VIII da Resolução CMN 
+4.970/2021; bem como art. 3°, §2°, do Regimento Interno do Coris e Política Específica de Indicação do Banco; 
+c) com base na documentação apensa ao processo, o indicado possui comprovada experiência em gerenciamento de riscos, preenchendo o disposto no § 5º do art. 45 da Resolução CMN 4.557/2017; 
+d) o Parecer Jurídico nº 6327214-001, de 12/08/2025, anexo ao processo, corrobora o entendimento de que estão demonstrados o atendimento às exigências gerais, o cumprimento dos requisitos mínimos e a ausência de impedimentos, restrições ou vedações à eleição do indicado. 
+5. Analisada a indicação, o Comitê registrou as seguintes observações:  
+a) os membros do Coris serão investidos em seus cargos independentemente da assinatura de termo de posse, desde a data da respectiva eleição, conforme art. 35, §3, do ESBB; 
+B) o término do mandato do atual ocupante do cargo está previsto para ocorrer em 19/09/2025. 
+6. Ante o exposto, com base no material de suporte disponibilizado, o Corem se manifesta, por unanimidade, favoravelmente à elegibilidade do Sr. Fernando Florêncio Campos para compor o Comitê de Riscos e de Capital do Banco do Brasil S.A., mandato 2025-2027 (2 anos), conforme Parecer Corem 2025/1633, devendo a eleição ser submetida ao Conselho de Administração para fins do disposto no art. 21, XVI, do ESBB, com a recomendação de que o indicado seja notificado, por ocasião da posse, a: 
+a) caso participe de três ou mais colegiados de empresas estatais, deverá optar por receber remuneração em apenas dois destes, renunciando à remuneração dos demais (art. 35 do Decreto 8.945/2016); 
+b) observar, de acordo com o caso concreto, a diretriz inscrita no art. 12 (conflito de interesses) do Regimento Interno do Coris; 
+c) abster-se de fazer uso das informações obtidas na condição de membro do Coris nas atividades profissionais que continuar a desempenhar; e 
+d) comunicar ao Banco eventual fato superveniente que possa afetar as condições de elegibilidade ora analisadas, as quais devem ser mantidas enquanto no efetivo exercício do cargo. 
+       
+Nada mais havendo a tratar, o Sr. Coordenador deu por encerrada a reunião, da qual eu, Leandro Dias Guia, Secretário, mandei lavrar esta ata que, lida e achada conforme, vai assinada por mim e pelos membros do Comitê","57,80","Em 21 de agosto de 2025, às 10h, o Comitê de Pessoas, Elegibilidade, Sucessão e Remuneração (Corem) do Banco do Brasil realizou uma reunião virtual, coordenada por Egidio Otmar Ames, com participação de Daniele Russo Barbosa Feijó, Fábio Franco Barbosa Fernandes, Marcelo Gasparino da Silva e Rachel de Oliveira Maia.
+
+O Corem analisou a indicação de Fernando Florêncio Campos para o Comitê de Riscos e de Capital (Coris), por um mandato de 2 anos (2025-2027), escolhido pelos conselheiros eleitos pelos acionistas minoritários.
+
+O Corem verificou que o processo está completo e que o indicado atende aos requisitos: tem formação, experiência em gestão de riscos, reputação limpa, idoneidade moral e capacidade técnica. Não há impedimentos ou vedações. Um parecer jurídico confirmou que todos os requisitos foram atendidos.
+
+O Corem concluiu por unanimidade que Fernando Florêncio Campos é elegível para o cargo. O mandato começa a contar a partir da eleição. O cargo está vago até 19 de setembro de 2025. O indicado será notificado para: receber remuneração em no máximo dois colegiados estatais; evitar conflitos de interesses; não usar informações do cargo em atividades profissionais; e informar qualquer fato que possa afetar sua elegibilidade.
+
+A reunião foi encerrada. A ata foi registrada e assinada pelo secretário e pelos membros do Corem.","40,52","0,711","0,264","Em 21/08/2025, às 10h, realizou-se reunião não presencial do Corem do Banco do Brasil.  
+O Corem analisou a indicação de Fernando Florêncio Campos para o Coris, mandato 2025-2027.  
+O processo está em conformidade com os requisitos e apresenta todos os documentos necessários.  
+O indicado possui formação, experiência em riscos e reputação adequada para o cargo.  
+O Corem recomenda que ele seja eleito, com orientações sobre remuneração e conflitos de interesses.  
+O indicado deve seguir regras de confidencialidade e comunicar eventuais mudanças de situação.","48,39","0,685","0,104","Em 21/08/2025, o Corem analisou a indicação de Fernando Florêncio Campos para o Coris.  
+O processo está completo e atende aos requisitos para a indicação de conselheiro.  
+O indicado tem experiência em gestão de riscos e está dentro do perfil exigido.  
+O Corem aprova a elegibilidade do candidato por unanimidade.  
+O candidato deve seguir regras sobre remuneração, conflitos de interesses e uso de informações.  
+A decisão será enviada ao Conselho de Administração para aprovação.","43,40","0,674","0,093","- Reunião do Corem ocorreu em 21/08/2025.  
+- Fernando Florêncio Campos foi indicado para o Coris.  
+- Indicação foi analisada e aprovada por unanimidade.  
+- Ele será eleito para o cargo de 2025 a 2027.  
+- Deve seguir regras sobre remuneração e conflitos de interesses.","59,02","0,642","0,057","Um comitê do banco analisou a indicação de um novo membro para um grupo que trabalha com riscos.  
+
+O candidato tem formação, experiência e reputação boa, comprovadas nos documentos apresentados.  
+
+O processo foi verificado com cuidado e está completo, sem problemas de compatibilidade ou impedimentos.  
+
+A recomendação foi dada favoravelmente, com todos os membros do comitê concordando.  
+
+O novo membro começará a atuar no dia da eleição e precisa seguir regras sobre remuneração e conflitos de interesses.","39,83","0,640","0,097"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=942388&numVersao=1&numProtocolo=1417676&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"Senhora Nilza Maria Silva de Oliveira, Gerente 
+Senhora Maria Luisa Azevedo Wernesbach, Inspetora Federal do Mercado de Capitais  
+Gerência de Acompanhamento de Empresas 1 (GEA 1) 
+Superintendência de Relações com Empresas (SEP) 
+Comissão de Valores Mobiliários - CVM 
+Assunto: Ofício nº 181/2025/CVM/SEP/GEA-1 - Solicitação de esclarecimentos - 
+Processo CVM nº 19957.010096/2025-18 
+Senhoras, 
+O Banco do Brasil S.A. (“BB”, “Banco” ou “Companhia”), referindo-se ao Ofício nº 181/2025/CVM/SEP/GEA-1 (“Ofício 181/2025”), de 18/08/2025 – cuja íntegra está reproduzida ao final deste Comunicado ao Mercado –, vem prestar esclarecimentos sobre a notícia veiculada na mídia Valor Online, em 15/08/2025, na seção Finanças, sob o título “'Tenho um recado para o investidor: quem tem ação do BB mantenha; quem não tem, compre', diz CEO”, onde constam as seguintes afirmações: 
+“A presidente do Banco do Brasil, Tarciana Medeiros, reafirmou, em entrevista coletiva sobre os resultados do segundo trimestre, que o resultado de 2025 é um ajuste, uma transição, e que 2026 será marcado por uma retomada na rentabilidade do banco. 
+Questionada sobre a queda no 'payout' [porcentagem do lucro a ser distribuído na forma de dividendos] do banco e comentários feitos por pequenos acionistas nas redes sociais, ela deu uma mensagem bem clara: 'Tenho um recado para o investidor: quem tem ação do BB mantenha; quem não tem, compre'. 
+O vice-presidente financeiro, Geovanne Tobias, foi na mesma linha. 'O ciclo vai passar e vamos retomar o patamar de rentabilidade que a gente tinha, então é um excelente momento de entrada [na ação do BB]', afirmou”.” 
+2. Ressalta-se que foi concedido ao Banco, por meio do Ofício nº 183/2025/CVM/SEP/GEA-1, de 19 de agosto de 2025, prazo adicional de resposta, com vencimento em 27de agosto de 2025. 
+3. Inicialmente, cabe salientar que o Banco divulga suas informações corporativas ao mercado de forma equitativa, verdadeira, completa e consistente, em linguagem simples e clara, com o objetivo de não induzir o investidor a erro, conforme preconizam os artigos 15 a 20 da Resolução CVM nº 80/22; o artigo 3º, parágrafo 5º, da Resolução CVM nº 44/21; e o item 4.1 do OFÍCIO CIRCULAR/ANUAL-2025-CVM/SEP. 
+4. Com amparo nessas regras, o Banco realizou os seguintes eventos corporativos: 
+(i) em 14/08/2025, após o fechamento do mercado, o BB arquivou, em linha com seu Calendário de Eventos Corporativos, todas as informações obrigatórias e/ou gerenciais incluindo Demonstrações Contábeis, Análise do Desempenho, Relatório da Administração, entre outras –, inicialmente junto à Comissão de Valores Mobiliários (“CVM”) e, em seguida, no portal de RI (www.bb.com.br/ri) (“site”, “portal”). Dentre essas informações, destacam-se a apresentação de resultados 2T25 e o “Videocast” disponível tanto no portal de RI quanto na Plataforma Youtube, que aborda o desempenho do Banco no trimestre e menciona explicitamente 2025 como um ano de ajuste e trata das novas Projeções Corporativas para 2025, que foram então restabelecidas, após suspensão que aconteceu na divulgação do resultado do primeiro trimestre, conforme Fato Relevante de 15/05/2025. Ressalta-se que essas projeções foram divulgadas por meio de Fato Relevante, com atualização concomitante do Formulário de Referência, ambos arquivados na mesma data; 
+(ii) em 15/08/2025, antes da abertura do mercado, o BB reapresentou o arquivo da apresentação de resultados, incluindo os slides que seriam utilizados pela Presidenta na videoconferência para divulgação do resultado abrangendo diagnósticos, iniciativas e estratégias adotadas pela Companhia; 
+(iii) às 9h00min do dia 15/08/2009 (horário de Brasília), também antes da abertura do mercado, deu-se início a videoconferência para divulgação do resultado, transmitida ao vivo pela plataforma Youtube e por meio de ambiente digital dedicado ao evento. A realização da videoconferência foi previamente divulgada por meio do Comunicado ao Mercado de 25/07/2025. O evento teve duração de aproximadamente duas horas e quinze minutos, durante as quais, além da fala inicial da Presidenta, Administradores da Companhia responderam, de forma abrangente, equitativa e simultânea a todo o mercado, as perguntas de analistas, abordando resultados e perspectivas da Companhia, com transparência e foco em todos os seus stakeholders. Durante a transmissão, 10.784 pessoas assistiram a apresentação. Até hoje, o evento possui quase 16 mil acessos; 
+(iv) após a videoconferência, houve uma “Coletiva de Imprensa” com a participação de integrantes do Conselho Diretor e representantes dos principais veículos de imprensa, realizada em formato presencial. 
+5. O BB esclarece que as declarações transcritas no Ofício 181/2025 devem ser interpretadas dentro do contexto de todo o evento de divulgação do resultado, evitando-se leituras isoladas ou simples destaques de manchetes. Todas as manifestações realizadas durante os eventos corporativos acima mencionados pautaram-se por critérios de prudência e realismo, apresentando aos stakeholders um diagnóstico profundo dos mercados em que o BB atua e as estratégias adotadas para os cenários de curto, médio e longo prazo, bem como as premissas que nortearam as novas projeções corporativas para 2025 e a revisão do payout para este exercício, conforme aprovado pelo Conselho de Administração e divulgado em Fato Relevante em 14/08/2025.  
+6. No que se refere às manifestações da Presidenta do BB, destaca-se que suas declarações consideraram o cenário macroeconômico e setorial vigente, com a clara mensagem de que o ano de 2025 é um ano de ajuste para a retomada da rentabilidade, sempre com a preocupação de empregar uma abordagem analítica sobre a performance do Banco, em conformidade com os princípios de transparência, clareza e consistência. 
+7. Além disso, as manifestações da Presidenta fundamentaram-se em informações previamente disponibilizadas ao mercado, refletindo a melhor expectativa da Administração quanto ao desempenho da Companhia, em alinhamento com as Projeções Corporativas divulgadas. Principalmente, procurou orientar os pequenos investidores, na própria videoconferência, a basearem suas decisões em informações fidedignas e provenientes de fontes sérias, como os analistas sell side que acompanham o BB há anos, e não em vídeos sensacionalistas em redes sociais ou notícias incompletas e descontextualizadas.  
+8. Tratando, especificamente, da Coletiva de Imprensa com jornalistas especializados em mercado financeiro, destaca-se que:  
+(i) foi realizada posteriormente à videoconferência do resultado; 
+(ii) utilizou-se como fonte os mesmos slides previamente arquivados nessa CVM;  
+(iii)  em conformidade com os deveres fiduciários previstos na Lei 6.404/1976, não foram divulgadas informações inéditas ou privilegiadas; e  
+(iv)  manteve-se o compromisso com a equidade e a transparência na comunicação com os diversos públicos de interesse, observando integralmente os princípios regulatórios aplicáveis. 
+9. O Conselho Diretor respondeu a diversas indagações dos jornalistas sobre os temas debatidos na videoconferência de resultados, além de outros assuntos gerais relativos ao BB e ao mercado financeiro.  
+10. Em relação ao desempenho do Banco do Brasil, o Vice-Presidente de Gestão Financeira e de Relações com Investidores reforçou os principais pontos que já haviam sido ditos na videoconferência – com base nas informações previamente divulgadas e considerando os múltiplos da Companhia, apresentados pelo BB nas suas séries históricas e acompanhados pelo mercado – e esclareceu que, para quem acredita no Banco, uma instituição bicentenária, conhece sua solidez e histórico de bom pagador de dividendos, o preço atual das ações da Companhia não condiz com sua capacidade de geração histórica de resultados. 
+11. Adicionalmente, a Presidenta reiterou a existência de uma situação conjuntural, que culminou na revisão das projeções corporativas para o ano de 2025 e impactou o preço das ações da Companhia. Todavia enfatizou a consistente distribuição de proventos entre os exercícios de 2023 até o primeiro semestre de 2025, de modo que o investimento no Banco não poderia considerar apenas o cenário de curto prazo, mas, sim, as projeções corporativas apresentadas e o histórico de geração de valor aos acionistas. 
+12. Portanto, os Administradores do Banco, agindo com transparência e no melhor interesse da Companhia – atentos aos seus deveres fiduciários previstos na Lei 6.404/76 e às disposições regulatórias aplicáveis, como as Resoluções CVM 80/2022 e 44/2021 –, demonstraram com suas falas que o Banco, a despeito da redução de rentabilidade apresentada no ano de 2025, vem implementando medidas estratégicas, táticas e operacionais, com vistas à retomada da rentabilidade e à geração de valor sustentável aos seus acionistas, sem a intenção de influenciar a decisão de investimento ou desinvestimento por parte do mercado ou a cotação das ações.  
+Brasília (DF), 27 de agosto de 2025. 
+Marco Geovanne Tobias da Silva 
+Vice-Presidente de Gestão Financeira e de Relações com Investidores 
+
+Ofício nº 181/2025/CVM/SEP/GEA-1
+Ao Senhor 
+Marco Geovanne Tobias da Silva 
+Diretor de Relações com Investidores de BANCO DO BRASIL S.A. 
+Saun Quadra 05, Lote B, torre sul, 15º andar, Ed. BB, Asa Norte  
+Brasília - DF 
+CEP: 70040-912  
+E-mail: dribb@bb.com.br  
+c/c: emissores@b3.com.br 
+Assunto: Solicitação de esclarecimentos - Processo CVM nº 19957. 010096/2025-18 
+Senhor Diretor, 
+1. Reportamo-nos à notícia veiculada na mídia Valor Online em 15.08.2025, seção Finanças, sob o título “'Tenho um recado para o investidor: quem tem ação do BB mantenha; quem não tem, compre', diz CEO”, da qual constam, entre outras, as seguintes informações, atribuídas à Sra. Tarciana do Amaral, Diretora-Presidente da companhia, e a V.Sa., Vice-presidente de Gestão Financeira e de Relações com Investidores do emissor: 
+A presidente do Banco do Brasil, Tarciana Medeiros, reafirmou, em entrevista coletiva sobre os resultados do segundo trimestre, que o resultado de 2025 é um ajuste, uma transição, e que 2026 será marcado por uma retomada na rentabilidade do banco. 
+Questionada sobre a queda no 'payout' [porcentagem do lucro a ser distribuído na forma de dividendos] do banco e comentários feitos por pequenos acionistas nas redes sociais, ela deu uma mensagem bem clara: 'Tenho um recado para o investidor: quem tem ação do BB mantenha; quem não tem, compre'. 
+O vice-presidente financeiro, Geovanne Tobias, foi na mesma linha. 'O ciclo vai passar e vamos retomar o patamar de rentabilidade que a gente tinha, então é um excelente momento de entrada [na ação do BB]', afirmou”. 
+2. A propósito, determinamos esclarecer se declarações ora transcritas foram, de fato, efetuadas pelos referidos administradores e, em caso afirmativo, solicitamos manifestação da companhia acerca de seu caráter essencialmente positivo, principalmente quando advindas da Diretora-Presidente e DRI de uma companhia aberta, as quais podem ter o condão de influenciar a decisão de investimento ou desinvestimento por parte do mercado, influenciando, dessa forma, a cotação dos valores mobiliários do emissor, observado o disposto no artigo 3º, parágrafo 5º, da Resolução CVM nº 44/21, e nos artigos 15 a 20 da Resolução CVM nº 80/22. 
+3. Tais esclarecimentos e/ou manifestação deverão ocorrer por meio do Sistema Empresa.NET, categoria: Comunicado ao Mercado, tipo: Esclarecimentos sobre questionamentos da CVM/B3, assunto: Notícia Divulgada na Mídia, a qual deverá incluir a transcrição deste ofício. 
+4. Lembramos, nesse sentido, conforme orientação contida no item 4.1 do OFÍCIO CIRCULAR/ANUAL-2025-CVM/SEP, que as informações, objeto de divulgação, deverão estar expressas em linguagem clara e objetiva, devendo ser verdadeiras, completas, consistentes e que não induzam o investidor a erro. 
+5. Assim sendo, tais declarações, caso tenham sido proferidas, devem ser evitadas, tendo em vista que a atuação dos Administradores de companhias abertas, no exercício dos deveres fiduciários previstos na legislação societária, deve buscar, de forma diligente, eliminar ou mitigar o risco de questionamentos quanto à neutralidade da informação produzida. 
+6. Alertamos que, de ordem da Superintendência de Relações com Empresas, no uso de suas atribuições legais e, com fundamento no inciso II, do art. 9º, da Lei nº 6.385/76, e na Resolução CVM nº 47/21, caberá a determinação de aplicação de multa cominatória, no valor de R$ 1.000,00 (mil reais), sem prejuízo de outras sanções administrativas, pelo não cumprimento da exigência contida neste ofício, enviado exclusivamente por e-mail, até 19.08.2025. 
+Atenciosamente, 
+Documento assinado eletronicamente por Maria Luisa Azevedo Wernesbach, Inspetor Federal do Mercado de Capitais, em 18/08/2025, às 11:59, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015. 
+Documento assinado eletronicamente por Nilza Maria Silva de Oliveira, Gerente, em 18/08/2025, às 12:02, com fundamento no art. 6º do Decreto nº 8.539, de 8 de outubro de 2015.","43,93","Senhora Nilza Maria Silva de Oliveira, Gerente  
+Senhora Maria Luisa Azevedo Wernesbach, Inspetora Federal do Mercado de Capitais  
+Gerência de Acompanhamento de Empresas 1 (GEA 1)  
+Superintendência de Relações com Empresas (SEP)  
+Comissão de Valores Mobiliários - CVM  
+Assunto: Ofício nº 181/2025/CVM/SEP/GEA-1 - Solicitação de esclarecimentos - Processo CVM nº 19957.010096/2025-18  
+
+O Banco do Brasil esclarece que as afirmações feitas por sua presidente e vice-presidente financeira sobre o ano de 2025 ser um período de ajuste e que 2026 verá a retomada da rentabilidade foram ditas em contexto de eventos oficiais de divulgação de resultados, como apresentação de resultados, videoconferência e coletiva de imprensa. Essas declarações foram feitas com base em informações previamente divulgadas, com foco na transparência, clareza e realismo, e não foram feitas para influenciar o mercado ou a cotação das ações. O Banco reafirma que todas as comunicações foram feitas com equidade, verdade, consistência e de forma clara, conforme exigências regulatórias. As declarações foram parte de um evento completo, não isoladas, e foram baseadas em dados técnicos e estratégias já apresentadas. O Banco não busca influenciar a decisão de investimento, mas sim informar os acionistas com base em dados reais e analíticos. A empresa destaca que o ajuste de 2025 não é um sinal de fraqueza, mas parte de uma transição para a retomada da rentabilidade. Todos os eventos foram realizados com transparência, com participação de analistas, jornalistas e investidores, e todas as informações estão disponíveis no site do banco.","31,06","0,785","0,125","O Banco do Brasil informou que 2025 é um ano de ajuste, não de queda na rentabilidade, mas de transição para 2026.  
+A presidente e o vice-presidente reforçaram que o ciclo de baixa rentabilidade passará e que o banco retomará seu desempenho.  
+O banco divulgou com transparência todos os resultados e apresentações, com foco em dados reais e análises completas.  
+As declarações foram feitas com base em informações previamente divulgadas, sem influenciar o mercado ou a cotação das ações.  
+O banco mantém o pagamento aos donos de ações de forma consistente e reafirma seu compromisso com a transparência.  
+O prazo para resposta foi estendido até 27/08/2025, com base em regras de clareza e equidade no comunicado ao mercado.","56,37","0,654","0,061","O Banco do Brasil esclarece que o ano de 2025 é um período de ajuste, não de queda na rentabilidade.  
+A presidente e o vice-presidente reforçaram que 2026 será de retomada da rentabilidade, com foco em estratégias de longo prazo.  
+As declarações foram feitas em eventos abertos e transparentes, com participação de analistas e jornalistas.  
+O Banco mantém a transparência e evita influenciar decisões de investimento com mensagens diretas.  
+O pagamento aos donos de ações será ajustado conforme as projeções aprovadas pelo Conselho de Administração.  
+O evento de divulgação contou com 10.784 participantes e mais de 16 mil acessos até o momento.","51,54","0,644","0,053","- Banco do Brasil esclarece que 2025 é um ano de ajuste, não de queda de rentabilidade.  
+- Presidente afirma que 2026 terá retomada da rentabilidade e recomenda manter ou comprar ações.  
+- Vice-presidente reforça que o ciclo passa e o momento é de entrada para investidores.  
+- As declarações foram feitas em evento com transparência e alinhadas às projeções oficiais.  
+- O banco garante que não influencia a cotação e prioriza clareza, equidade e transparência.","49,74","0,651","0,039","O Banco do Brasil explicou que 2025 é um ano de ajuste, não de queda no desempenho, mas de transição para um futuro de melhor rentabilidade.  
+
+O banco ressaltou que o pagamento de dividendos caiu por causa de fatores externos, mas com foco em retomar a rentabilidade em 2026.  
+
+A presidente e o vice-presidente reforçaram que o investidor deve olhar para o histórico do banco e não apenas para o que está acontecendo no curto prazo.  
+
+O banco disse que todas as informações foram divulgadas com clareza, transparência e sem tentar influenciar a decisão de compra ou venda de ações.  
+
+As declarações foram feitas dentro de eventos oficiais, com base em dados reais, para ajudar os investidores a tomarem decisões informadas.  
+
+O banco garantiu que não usou linguagem sensacionalista e que todos os dados estão alinhados com as projeções e o desempenho real do instituto.","53,78","0,651","0,075"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=969890&numVersao=1&numProtocolo=1445178&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Vale atualiza sobre Reivindicação do Reino Unido.
+Rio de Janeiro, 14 de novembro de 2025 – Em continuidade às comunicações anteriores1, a Vale S.A. (“Vale” ou “Companhia”) confirma que a Alta Corte da Inglaterra considerou a BHP Group Ltd. e a BHP Group UK Ltd. (conjuntamente, “BHP”) responsáveis, sob a legislação brasileira, pelo rompimento da barragem de Fundão, operada pela Samarco Mineração S.A. (“Samarco”), em 2015. A decisão também confirmou a validade das renúncias e termos de quitação assinados por reclamantes já indenizados no Brasil, o que reduzirá o número de reclamantes e o valor das demandas. 
+Em julho de 2024, Vale e BHP firmaram um acordo confidencial pelo qual a responsabilidade será compartilhada igualmente por qualquer valor que a BHP (no processo inglês) ou a Vale (no processo holandês) 2 seja condenada a pagar.  
+Vale e BHP permanecem confiantes de que o Acordo Definitivo, assinado em outubro de 2024 no Brasil, oferece os mecanismos mais rápidos e eficazes para compensar os impactados. 
+Próximos passos na Reivindicação do Reino Unido 
+Sujeito ao resultado de eventual recurso da BHP contra a decisão da primeira fase, um segundo julgamento, para determinar se a BHP causou os prejuízos alegados e questões genéricas relacionadas ao valor desses prejuízos, está atualmente previsto para começar em outubro de 2026 e seguir até o segundo trimestre de 2027. Após decisões e recursos dessa fase, o valor das perdas sofridas e eventuais indenizações devidas a cada reclamante poderá ser objeto de um terceiro julgamento oportunamente. 
+O Acordo Definitivo com o Poder Público e o avanço da reparação no Brasil  
+Em outubro de 2024, a Samarco, BHP Billiton Brasil Ltda3 e Vale celebraram um acordo abrangente de US$ 32 bilhões (R$ 170 bilhões) com autoridades brasileiras para a quitação integral das principais ações no Brasil relacionadas ao rompimento da barragem. O Acordo Definitivo prevê ampla reparação dos impactos ambientais e sociais, incluindo saneamento básico, fortalecimento do sistema público de saúde, recuperação econômica, melhoria da infraestrutura local, compensação por danos coletivos a comunidades indígenas e tradicionais e municípios, além de 
+apoio à renda das populações mais vulneráveis nas regiões afetadas. 
+Desde 2015, Samarco, BHP Brasil e Vale destinaram US$ 13 bilhões para ações de reparação e compensação a indivíduos afetados e autoridades brasileiras. Desse montante, mais de US$ 6 bilhões foram pagos em indenizações e auxílios financeiros para ao menos 610 mil pessoas, incluindo aproximadamente 240 mil requerentes no Reino Unido que concederam quitação de reivindicações relacionadas. A recuperação ambiental das áreas impactadas está substancialmente avançada, e a reconstrução das comunidades de Novo Bento Rodrigues e Paracatu atingiu 98% de conclusão. 
+Provisões e desembolsos futuros da reparação do rompimento da barragem de Fundão 
+Considerando o exposto, a Companhia estima uma provisão adicional de aproximadamente US$ 500 milhões em suas demonstrações financeiras de 31 de dezembro de 2025 para obrigações decorrentes do rompimento da barragem de Fundão. Em 30 de setembro de 2025, a Vale já havia reconhecido uma provisão de US$ 2,401 bilhões para obrigações sob o Acordo Definitivo no Brasil. Os desembolsos futuros relacionados ao Acordo Definitivo permanecem alinhados aos valores divulgados no release de resultados do 3º trimestre de 2025.  
+Marcelo Feriozzi Bacci 
+Vice-Presidente Executivo de Finanças e Relações com Investidores ","33,12","Vale atualiza sobre a reivindicação do Reino Unido.  
+A Alta Corte da Inglaterra considerou que a BHP é responsável pelo rompimento da barragem de Fundão, conforme a lei brasileira. Também confirmou a validade das renúncias de reclamantes indenizados, reduzindo o número de demandas. Em julho de 2024, Vale e BHP acordaram dividir a responsabilidade igualmente em processos no Reino Unido e na Holanda. O acordo definitivo assinado em outubro de 2024 no Brasil é visto como o mais rápido e eficaz para compensar os afetados.  
+
+O próximo passo é um novo julgamento previsto para outubro de 2026, que avaliará se a BHP causou os danos e o valor desses prejuízos. Após isso, pode haver um terceiro julgamento para definir o valor exato de cada indenização.  
+
+Em outubro de 2024, Vale, BHP Brasil e Samarco firmaram um acordo de US$ 32 bilhões (R$ 170 bilhões) com o governo brasileiro para resolver as demandas no país. O acordo inclui reparação ambiental, saneamento, saúde, infraestrutura, indígenas e populações vulneráveis. Desde 2015, já foram destinados US$ 13 bilhões, com mais de US$ 6 bilhões pagos a cerca de 610 mil pessoas, incluindo 240 mil no Reino Unido que já foram resolvidas. A recuperação ambiental e a reconstrução de comunidades estão avançadas, com 98% concluídas.  
+
+Vale estima uma provisão adicional de US$ 500 milhões em 2025 para as obrigações do acidente. Já havia reconhecido em setembro de 2025 uma provisão de US$ 2,401 bilhões para o acordo no Brasil. Os pagamentos futuros seguirão os valores divulgados no relatório do terceiro trimestre de 2025.","53,67","0,745","0,484","14/11/2025 – A Vale confirma que a Alta Corte inglesa considerou a BHP responsável pelo rompimento da barragem de Fundão em 2015.  
+
+Em julho de 2024, Vale e BHP firmaram um acordo confidencial para dividir igualmente as responsabilidades em caso de condenação.  
+
+O acordo assinado em 30/10/2024 oferece soluções rápidas e eficazes para reparar os danos causados pelo acidente.  
+
+O segundo julgamento no Reino Unido começa em 01/10/2026 e termina em 31/03/2027, para avaliar se a BHP causou os prejuízos.  
+
+A Vale estima US$ 500 milhões em provisão para 31/12/2025, além de US$ 2,401 bilhões já reconhecidos em setembro de 2025.","63,20","0,760","0,189","A Vale confirma que a Alta Corte inglesa responsabilizou a BHP pelo rompimento da barragem em 2015.  
+O acordo entre Vale e BHP compartilha a responsabilidade de forma igual em caso de condenação.  
+O segundo julgamento no Reino Unido começa em outubro de 2026 e termina em 2027.  
+A Vale prevê uma provisão adicional de US$ 500 milhões para os impactos do acidente.  
+O acordo no Brasil já compensa milhares de pessoas com US$ 6 bilhões em indenizações.  
+A recuperação ambiental e social está avançada, com 98% de conclusão nas comunidades afetadas.","57,63","0,702","0,173","- Vale e BHP são responsáveis pelo rompimento da barragem de Fundão em 2015.  
+- Alta Corte da Inglaterra confirmou a responsabilidade de BHP sob a lei brasileira.  
+- Em 2024, Vale e BHP acordaram dividir igualmente as responsabilidades em processos internacionais.  
+- Acordo de US$ 32 bilhões foi firmado em outubro de 2024 para quitar demandas no Brasil.  
+- Vale prevê provisão de US$ 500 milhões em 2025 para reparação do rompimento.  
+- Mais de US$ 6 bilhões foram pagos para 610 mil pessoas afetadas desde 2015.","66,80","0,716","0,165","A empresa confirmou que a BHP está sendo considerada responsável pelo rompimento da barragem de Fundão.  
+
+O acordo entre a Vale e a BHP distribui a responsabilidade igualmente, reduzindo o número de demandas futuras.  
+
+A decisão inglesa validou as renúncias já feitas, o que diminuiu o valor total das reivindicações.  
+
+O julgamento no Reino Unido começa em outubro de 2026 e pode durar até 2027, para avaliar os prejuízos.  
+
+A empresa já pagou mais de US$ 6 bilhões para milhares de pessoas afetadas, com avanço significativo na recuperação.","49,27","0,725","0,165"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=972026&numVersao=1&numProtocolo=1447314&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Vale precifica US$750 milhões em títulos subordinados com data fixa para reajuste, com vencimento em 2056.
+Rio de Janeiro, 19 de novembro de 2025 - Em atenção à nota de imprensa publicada sobre o tema1, e em continuidade ao Comunicado ao Mercado divulgado em 17 de novembro de 20252 pela Vale S.A. (“Vale” ou “Companhia”), a Vale informa que sua subsidiária integral Vale Overseas Limited (“Vale Overseas”) precificou, em 18 de novembro de 2025, a oferta de títulos subordinados com data fixa para reajuste (subordinated dated fixed to reset notes) de US$750.000.000,00 de valor de principal agregado com vencimento em 2056, garantidas pela Vale (“Notes”), com um rendimento (yield) de 6,125% até a primeira data de resgate (first call date) e preço de emissão de 99,488% do principal. As Notes têm vencimento em 25 de fevereiro de 2056 e renderão juros com pagamento semestral à taxa inicial de 6,000% ao ano, sujeito ao direito da Vale Overseas diferir o pagamento dos juros. A taxa de juros será reajustada a cada cinco anos, a partir de 25 de fevereiro de 2031. 
+As Notes constituirão obrigações subordinadas e sem garantia real (unsecured) da Vale Overseas e serão plena e incondicionalmente garantidas pela Vale, de forma não garantida (unsecured) e subordinada. As Notes e a garantia relacionada terão prioridade de pagamento inferior em relação a todas as obrigações financeiras ou não financeiras existentes e futuras da Vale Overseas e da Vale (incluindo as debêntures participativas da sexta emissão, “Debêntures Participativas”), sejam elas com ou sem garantia real (secured) ou obrigações subordinadas, exceto obrigações paritárias que tenham o mesmo grau de prioridade de pagamento (incluindo as Notes e a garantia) e por capital subordinado júnior (junior subordinated capital).  
+A Vale pretende utilizar os recursos líquidos da emissão para finalidades corporativas gerais, incluindo, mas não se limitando, à recomposição parcial de caixa após o pagamento do preço de aquisição das Debêntures Participativas adquiridas no âmbito da oferta de aquisição facultativa, liquidada pela Companhia em 5 de novembro de 2025.  
+Este fato relevante é fornecido exclusivamente para fins informativos, nos termos da legislação aplicável, e não deve, em hipótese alguma, ser interpretado ou considerado como uma oferta de venda ou uma solicitação de oferta de compra das Notes, da garantia ou qualquer outro título, nem deverá constituir uma oferta, solicitação de compra ou venda desses títulos em qualquer jurisdição na qual, ou a qualquer pessoa a quem, tal oferta, solicitação de compra ou venda seja ilegal antes do registro ou qualificação de acordo com as leis de valores mobiliários de tal jurisdição. Quaisquer ofertas de venda das Notes ou da garantia correspondente serão feitas apenas por meio de um prospecto de venda privado.  
+As Notes e a garantia relacionada foram oferecidas e serão vendidas exclusivamente para pessoas que sejam (i) investidores institucionais qualificados, conforme previsto no artigo 144A do U.S. Securities Act de 1933, conforme alterado (“Securities Act”), ou (ii) não-residentes nos Estados Unidos da América (non-U.S. persons), conforme previsto na Regulation S do Securities Act, fora dos Estados Unidos da América. Quando emitidas, as Notes e a garantia correspondente não terão sido e não serão registradas nos termos do Securities Act ou leis estaduais de valores mobiliários e não poderão ser oferecidas ou vendidas nos Estados Unidos sem registro ou sem que se aplique uma isenção aos requisitos de registro do Securities Act e das leis estaduais de valores mobiliários aplicáveis. As Notes e a garantia correspondente não serão registradas na Comissão de Valores Mobiliários (CVM) e não poderão ser oferecidas ou vendidas no Brasil, exceto em circunstâncias que não constituam uma oferta pública ou distribuição não autorizada de acordo com as leis e regulamentos brasileiros. 
+Marcelo Feriozzi Bacci 
+Vice-Presidente Executivo de Finanças e Relações com Investidores","34,82","A Vale emitiu títulos subordinados de US$750 milhões com vencimento em 2056, rendendo 6,125% até a primeira data de resgate, com pagamento de juros semestral de 6% ao ano. A taxa de juros será reajustada a cada cinco anos a partir de 2031. Os títulos são subordinados, sem garantia real, e serão garantidos pela Vale, mas com prioridade de pagamento menor que outras dívidas da empresa. Os recursos serão usados para recompor caixa, especialmente após o pagamento de debêntures participativas. A oferta é exclusiva para investidores institucionais qualificados ou não residentes nos EUA, fora dos EUA. Não há oferta pública ou venda no Brasil ou nos EUA sem registro ou isenção.","54,53","0,715","0,178","A Vale precificou US$750 milhões em títulos subordinados com reajuste, com vencimento em 25/02/2056.  
+A oferta foi informada em 18 de novembro de 2025, seguindo o comunicado anterior de 17/11/2025.  
+Os títulos renderão juros semestrais, com reajuste a cada cinco anos a partir de 25/02/2031.  
+O pagamento aos donos de ações será feito com base em um rendimento inicial de 6,000%, ajustado posteriormente.  
+Os recursos serão usados para recompor a caixa após o pagamento de debêntures adquiridas em 05/11/2025.  
+As notas são subordinadas e não garantidas, com prioridade de pagamento inferior a outras dívidas.","63,67","0,732","0,151","A Vale precificou títulos no valor de US$750 milhões em 18 de novembro de 2025.  
+Os títulos têm vencimento em 25 de fevereiro de 2056 e rendem 6,000% ao ano com reajuste a cada cinco anos.  
+A remuneração será paga semestralmente, com direito da empresa diferir o pagamento.  
+Os títulos são subordinados e terão prioridade de pagamento inferior a outras dívidas da Vale.  
+O dinheiro será usado para recompor a caixa após a compra das Debêntures Participativas.  
+A oferta é limitada a investidores institucionais qualificados ou não-residentes nos EUA.","54,88","0,714","0,143","- A Vale emitiu títulos no valor de US$750 milhões.  
+- Os títulos vencem em 2056 e têm juros de 6,00% ao ano.  
+- A taxa de juros é reajustada a cada cinco anos.  
+- A emissão serve para recompor a caixa da empresa.  
+- Os títulos são subordinados e não têm garantia real.","92,51","0,691","0,087","A empresa fez uma compra de títulos no valor de US$750 milhões.  
+
+Os títulos têm juros fixos de 6% e serão reajustados a cada cinco anos.  
+
+O pagamento dos juros pode ser diferido, conforme decidido pela empresa.  
+
+Os títulos são garantidos pela empresa, mas não têm prioridade sobre outras dívidas.  
+
+O dinheiro será usado para recompor o caixa da empresa após o pagamento de uma aquisição.","63,51","0,671","0,106"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=930978&numVersao=1&numProtocolo=1406266&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Vale aprova o uso de instrumentos financeiros em apoio ao Programa de Recompra de Ações.
+Rio de Janeiro, 31 de julho de 2025 – Em apoio à estratégia de execução do Programa de Recompra de até 120 milhões de ações ordinárias1 da Vale S.A.2 (“Vale” ou “Companhia”), atualmente em vigor, o Conselho de Administração da Vale autorizou, nesta data, o uso de um ou mais dos seguintes instrumentos financeiros relacionados a negociações de valores mobiliários da Vale: contratos de Total Return Equity Swap (TSR), Enhanced Share Repurchase (ESR) e Accelerated Share Repurchase (ASR). 
+Os referidos instrumentos financeiros poderão ser celebrados até um volume máximo de ações de emissão da Companhia que, somado ao volume de ações recompradas diretamente, respeite o volume total estabelecido para o Programa de Recompra de Ações em vigor. Informações adicionais estão disponíveis no anexo desta comunicação, elaborado nos termos da Resolução CVM nº 80/2022, Anexo G.   
+Essa iniciativa traz opcionalidades à execução do Programa de Recompra de Ações em andamento e reitera a confiança contínua da administração nas perspectivas de negócios da Vale, enquanto evidencia o compromisso da administração com a alocação de capital disciplinada e com a criação e o compartilhamento de valor com os acionistas da Companhia. 
+Marcelo Feriozzi Bacci 
+Vice-Presidente Executivo de Finanças e Relações com Investidores ","32,22","O Conselho de Administração da Vale autorizou o uso de instrumentos financeiros, como TSR, ESR e ASR, para ajudar na recompra de até 120 milhões de ações. Esses instrumentos podem ser usados até o limite total de ações previsto no programa, combinado com a recompra direta. A iniciativa oferece flexibilidade na execução do programa e reflete a confiança da administração nas perspectivas da empresa, bem como seu compromisso com alocação de capital disciplinada e criação de valor para os acionistas.","33,53","0,747","0,374","31/07/2025 – Vale autoriza o uso de instrumentos financeiros para ajudar na recompra de ações.  
+
+Instrumentos como TSR, ESR e ASR podem ser usados, desde que o total de ações não exceda 120 milhões.  
+
+A decisão segue a estratégia de recompra e ajusta o uso de ferramentas para atingir o objetivo.  
+
+O uso desses instrumentos mostra confiança na performance da empresa e no pagamento aos donos de ações.  
+
+A administração reafirma o compromisso com capital disciplinado e com valor para os acionistas.  
+
+Marcelo Feriozzi Bacci, vice-presidente de finanças, confirmou a decisão.","54,81","0,726","0,425","A Vale autorizou o uso de instrumentos financeiros para auxiliar na recompra de ações.  
+O uso desses instrumentos está dentro do limite máximo de 120 milhões de ações.  
+A decisão segue a estratégia de recompra em andamento e reforça o compromisso com os acionistas.  
+A administração confia no potencial de negócios da companhia.  
+Os detalhes estão disponíveis no anexo conforme a Resolução CVM nº 80/2022.  
+A iniciativa permite maior flexibilidade na execução do programa de recompra.","51,23","0,737","0,355","Vale autoriza uso de instrumentos financeiros para recompra de ações.  
+Decisão ocorre em 31 de julho de 2025.  
+Instrumentos incluem TSR, ESR e ASR.  
+Uso será dentro do limite de 120 milhões de ações.  
+Ação reforça compromisso com valor para acionistas.","69,25","0,694","0,192","A empresa autorizou o uso de ferramentas financeiras para comprar suas próprias ações.  
+
+Essas ferramentas ajudam a comprar ações de forma mais flexível e eficiente.  
+
+O uso dessas ferramentas não aumenta o total de ações compradas, mas ajuda a controlar o custo.  
+
+A decisão mostra que a administração confia no futuro da empresa e no valor dos acionistas.  
+
+A empresa continua focada em usar bem o dinheiro e trazer benefícios para os investidores.","56,70","0,666","0,341"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=879849&numVersao=1&numProtocolo=1355123&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Vale estabelece joint-venture em Aliança Energia.
+Rio de Janeiro, 31 de março de 2025 - A Vale S.A. (“Vale” ou a “Companhia”) informa que celebrou um acordo com a Global Infrastructure Partners (“GIP”) para estabelecer uma joint venture na Aliança Geração de Energia S.A. (“Aliança Energia”), uma empresa privada que atua no mercado brasileiro de energia. Uma vez concluída a transação, a Vale receberá aproximadamente US$ 1 bilhão1 em dinheiro e deterá uma participação de 30% na joint venture, enquanto a GIP terá os 70% restantes.
+A transação garante volume estratégico de geração de energia para manter a matriz elétrica da Vale, que é 100% baseada em fontes renováveis no Brasil. Com a transação, a Vale garante custos de energia competitivos, com preços definidos em dólares americanos sem ajuste de inflação.  
+Na conclusão da transação, a Aliança Energia passará a consolidar os ativos de energia do parque solar Sol do Cerrado e a integralidade do Consórcio Candonga (Usina Hidrelétrica Risoleta Neves), ambos em Minas Gerais, além de outras seis usinas hidrelétricas no mesmo estado e três parques eólicos nos estados do Rio Grande do Norte e do Ceará. Juntos, esses ativos alcançam 2.189 MW em capacidade instalada e 1.003 MW médios de garantia física. 
+“Estamos entusiasmados em formar esta parceria estratégica com a GIP, permitindo-nos acelerar o plano de descarbonização da Vale de uma forma mais eficiente em termos de capital. Esta plataforma recém-formada nos fornecerá soluções renováveis competitivas à medida que entregamos um futuro com uma pegada de carbono menor”, disse Gustavo Pimenta, CEO da Vale.  
+A Vale esclarece que a transação está sujeita às condições precedentes usuais, incluindo a anuência ou a aprovação de órgãos regulatórios competentes. A Vale reitera que manterá o mercado informado tempestivamente sobre qualquer fato relevante no contexto da referida transação. 
+Sobre o GIP 
+O GIP é um dos maiores gestores globais de fundos de infraestrutura, com um portfólio de ativos de cerca de US$ 170 bilhões, incluindo diversas joint-ventures com destacados grupos do setor de energia mundial. No Brasil, por meio da propriedade do grupo latino-americano Atlas Renewable Energy, o GIP controla uma plataforma de geração com aproximadamente 983 MW de capacidade instalada na Bahia, Ceará e Minas Gerais. O GIP segue uma rigorosa abordagem ESG e, desde 2024, é controlada pela Blackrock, um dos maiores investidores institucionais do mundo. 
+Marcelo Feriozzi Bacci 
+Vice-Presidente Executivo de Finanças e Relações com Investidores","46,04","A Vale firmou parceria com a GIP para criar uma joint venture na Aliança Energia, uma empresa brasileira de geração de energia. Após a transação, a Vale receberá cerca de US$ 1 bilhão e terá 30% do novo negócio, enquanto a GIP terá 70%. A joint venture garante à Vale energia renovável, com custos estabilizados em dólares, sem inflação. A Aliança Energia terá 2.189 MW de capacidade e 1.003 MW de energia física garantida, provenientes de parques solares e hidrelétricos em Minas Gerais e outros estados. O CEO da Vale disse que a parceria ajuda a acelerar a descarbonização da empresa. A transação depende de aprovações regulatórias e será informada com transparência. O GIP é um dos maiores gestores de infraestrutura global, com ativos de US$ 170 bilhões, e controla cerca de 983 MW de energia no Brasil, com foco em sustentabilidade e ESG.","62,59","0,745","0,362","31/03/2025 – A Vale celebra parceria com a GIP para criar joint venture na Aliança Energia.  
+
+A Vale receberá cerca de US$ 1 bilhão e terá 30% da joint venture.  
+
+A transação garante energia renovável com preços em dólares, sem ajuste por inflação.  
+
+A joint venture controla 2.189 MW de capacidade em Minas Gerais e outros estados.  
+
+A Vale afirma que a parceria ajuda a acelerar sua descarbonização e reduzir a pegada de carbono.  
+
+A transação depende de aprovação de órgãos regulatórios e será informada com transparência.","65,78","0,740","0,219","A Vale firmou parceria com a GIP para criar joint venture na Aliança Energia.  
+A Vale receberá US$ 1 bilhão e terá 30% da joint venture.  
+A parceria garante energia renovável e preços em dólares sem ajuste de inflação.  
+A joint venture terá 2.189 MW de capacidade e 1.003 MW de garantia física.  
+A transação segue condições normais e será informada conforme fato relevante.","75,19","0,728","0,161","- Vale e GIP criam joint venture em Aliança Energia.  
+- Vale recebe US$ 1 bilhão e terá 30% da joint venture.  
+- GIP terá 70% e tem experiência em energia.  
+- Transação garante energia renovável e preços em dólares.  
+- Joint venture controla 2.189 MW de capacidade solar e hidrelétrica.","75,28","0,701","0,128","A Vale fez uma compra com um grupo internacional para entrar no mercado de energia renovável.  
+
+Ela ganhou cerca de um bilhão de dólares e passou a ter 30% da nova empresa juntamente com o grupo GIP.  
+
+A parceria garante que a Vale tenha energia barata e preços fixos em dólares, sem sofrer inflação.  
+
+Com os ativos combinados, a empresa terá acesso a 2.200 megawatts de energia solar e hidrelétrica no Brasil.  
+
+A joint venture vai ajudar a Vale a reduzir as emissões de carbono e fortalecer sua meta de energia limpa.","70,27","0,711","0,231"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=863114&numVersao=1&numProtocolo=1338388&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Vale informa sobre atualização de projeções.
+Rio de Janeiro, 24 de fevereiro de 2025 – A Vale S.A. (“Vale” ou “Companhia) informa que atualizou as estimativas referentes a sensibilidade de fluxo de caixa da Companhia, a ser apresentada na Conferência BMO Global Metals, Mining & Critical Minerals, em Miami, na data de hoje. 
+Fluxo de Caixa Livre: 
+Sensibilidade do Fluxo de Caixa Livre para o acionista (“FCFE”) da Vale em 2025, em termos reais, de US$ 3,85,0 bilhões, representando um FCFE yield de 9-12%, com base nas seguintes premissas: (a) Consenso de EBITDA Proforma de 2025 de analistas sell side de US$ 15,5 bilhões; (b) Capex de ~US$ 5,9 bilhões; (c) US$ 1,9-2,4 bilhões em juros e impostos; (d) ~US$ 0,9 bilhões em despesas incorridas relacionadas a Brumadinho e descaracterização de barragens; (e) US$ 0,8-1,0 bilhão de Associadas e JVs; e (f) US$ 1,0-1,5 bilhões para Outros desembolsos, como pagamentos de juros sobre debêntures participativas, desembolsos relacionados a contratos de concessão ferroviária e transações de streaming. 
+Sensibilidade da geração de FCFE acumulado da Vale nos próximos 3 anos (2025-27), em termos reais, de US$ 13-15,0 bilhões, representando FCFE yield acumulado de 30-35%, com base: (a) no ganho anualizado esperado de EBITDA em 2027 de ~US$ 5 bilhões, proveniente da redução nos custos C1 (aproximadamente US$ 0,6 bilhões, em linha com guidance de anteriormente fornecido pela Vale para C1/t), melhorias no custo all-in (~US$ 1,3 bilhão), um adicional de 30 Mt de volumes de minério de ferro (~US$ 1,1 bilhão) e aumento nas margens e volumes da Vale Base Metals (VBM) de US$ 1,5-2,0 bilhões, em linha com os guidances de custo C1/t em minério de ferro, custos all-in/t e produção anteriormente fornecidos pela Vale; (b) premissa de preço de minério de ferro, conforme consenso de analistas de mercado, de U$99/t (2025), US$91/t (2026) e US$ 89/t (2027). 
+Os FCFE yields foram calculados com base no market cap de fechamento do dia 21 de fevereiro de 2025.
+Todas as demais estimativas indicadas pela Vale no fato relevante de 19 de fevereiro de 20251, e no item 3 de seu Formulário de Referência seguem inalteradas. O referido item do Formulário de Referência da Companhia será reapresentado com a atualização acima em momento oportuno, conforme prazo previsto na Resolução CVM nº 80/2022. 
+A Vale esclarece que as informações divulgadas neste documento representam apenas uma estimativa, dados hipotéticos que não constituem, de forma alguma, uma promessa de desempenho por parte da Vale e/ou de sua administração. As projeções apresentadas envolvem fatores de mercado alheios ao controle da Vale e, dessa forma, podem sofrer novas alterações. 
+Marcelo Feriozzi Bacci 
+Vice-Presidente Executivo de Finanças e Relações com Investidores","44,06","A Vale atualizou suas projeções de fluxo de caixa para 2025. O fluxo de caixa líquido para acionistas (FCFE) está estimado em US$ 3,85 bilhões, com retorno de 9 a 12%. Isso considera previsões de EBITDA de US$ 15,5 bilhões, gastos com capital e operações, juros, despesas de Brumadinho e outras despesas. O valor acumulado de FCFE nos próximos três anos está entre US$ 13 e US$ 15 bilhões, com retorno total de 30 a 35%. As premissas incluem melhorias nos custos, aumento de produção e preços de ferro previstos em US$ 99, US$ 91 e US$ 89 por tonelada em 2025, 2026 e 2027, respectivamente. Os valores foram calculados com base no mercado fechado em 21 de fevereiro de 2025. As demais projeções permanecem sem alteração. As estimativas são hipotéticas e não representam garantias de desempenho. As projeções podem mudar devido a fatores externos fora do controle da empresa.","70,28","0,719","0,339","Vale informa atualização de projeções de fluxo de caixa.  
+Fluxo de caixa livre em 2025 estima US$ 3,85 bilhões, com retorno de 9-12%.  
+Avaliação considera previsões de lucro, investimentos e despesas operacionais.  
+Geração acumulada de FCFE nos próximos três anos está entre US$ 13 e US$ 15 bilhões.  
+Os valores foram calculados com base no capital de mercado em 21/02/2025.  
+A Vale reafirma que as projeções são estimativas e não garantias de desempenho.","68,81","0,737","0,165","A Vale atualizou as projeções de fluxo de caixa em 24/02/2025.  
+O FCFE em 2025 está estimado em US$ 3,85 bilhões, com rendimento de 9-12%.  
+A geração acumulada de FCFE nos próximos 3 anos está entre US$ 13 e US$ 15 bilhões.  
+O cálculo do rendimento baseia-se no valor de mercado do dia 21/02/2025.  
+As projeções são estimativas e não representam garantias de desempenho.","89,05","0,705","0,145","A Vale atualizou suas projeções de fluxo de caixa em 2025.  
+O FCFE em 2025 está estimado em US$ 3,85 bilhões.  
+O retorno esperado é de 9% a 12% ao ano.  
+A Vale projeta US$ 13 a 15 bilhões de FCFE nos próximos três anos.  
+O retorno acumulado será de 30% a 35%.  
+As projeções são estimativas e não garantem resultados reais.","94,49","0,700","0,140","A Vale atualizou suas projeções de rendimento para 2025.  
+
+O fluxo de caixa líquido para acionistas está estimado em US$ 3,85 bilhões, com retorno entre 9% e 12%.  
+
+A empresa prevê um total de US$ 13 a US$ 15 bilhões de fluxo de caixa nos próximos três anos.  
+
+O valor de retorno acumulado chega a 30% a 35%, com base em previsões de preços e melhorias nos custos de produção.  
+
+As projeções são baseadas em dados de analistas e não garantem resultados reais.  
+
+A Vale reforça que as previsões são estimativas, não promessas de desempenho.","77,50","0,694","0,215"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=859705&numVersao=1&numProtocolo=1334979&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Vale esclarece sobre alienação de participação na Aliança Energia.
+Rio de Janeiro, 14 de fevereiro de 2025 – Em atenção ao artigo de imprensa publicado1 sobre a alienação de participação na Aliança Geração de Energia S.A. (“Aliança Energia”), a Vale S.A. (“Vale” ou “Companhia) esclarece que está avaliando potencial alienação de 70% de participação na Aliança Energia, incluindo os ativos de energia Sol do Cerrado e Consórcio Candonga, presentes no portfólio da Companhia, para a Global Infrastructure Partners (""GIP""). A Vale informa que não há qualquer instrumento vinculante firmado quanto à alienação e que qualquer decisão nesse sentido será tomada em conformidade com as políticas e regras de governança da Companhia. A Vale reitera que seguirá mantendo o mercado informado tempestivamente sobre qualquer fato relevante a respeito de seus negócios. 
+Marcelo Feriozzi Bacci 
+Vice-Presidente Executivo de Finanças e Relações com Investidores ","39,84","Vale esclarece que está avaliando a venda de 70% de sua participação na Aliança Energia, incluindo os ativos de energia Sol do Cerrado e Consórcio Candonga, para a Global Infrastructure Partners. Não há contrato firmado, e qualquer decisão seguirá as regras de governança da empresa. A Vale afirmará com clareza que manterá os investidores informados sobre qualquer mudança relevante.","39,60","0,777","0,418","Vale esclarece sobre possibilidade de venda de 70% de sua participação na Aliança Energia.  
+
+A empresa não firmou nenhum contrato formal para a alienação da participação.  
+
+A decisão será tomada seguindo as regras de governança da companhia.  
+
+A Vale informa que manterá os investidores atualizados sobre qualquer mudança relevante.  
+
+A venda envolve ativos de energia como Sol do Cerrado e Consórcio Candonga.  
+
+O processo será avaliado com foco no pagamento aos donos de ações.","45,40","0,755","0,525","A Vale esclarece que está analisando a venda de 70% de sua participação na Aliança Energia.  
+Não há contrato formal firmado para essa alienação.  
+A decisão seguirá as regras de governança da empresa.  
+A Vale manterá os investidores informados sobre qualquer mudança no negócio.  
+A venda pode incluir ativos de energia como Sol do Cerrado e Consórcio Candonga.  
+A análise será feita com base nos critérios internos da companhia.","54,48","0,762","0,489","Vale analisa venda de 70% de sua participação na Aliança Energia.  
+Nenhum contrato foi firmado para a venda.  
+Decisão seguirá as regras de governança da empresa.  
+Vale manterá atualização sobre qualquer mudança no negócio.","48,61","0,712","0,241","A Vale está avaliando a compra de 70% de sua participação na Aliança Energia.  
+
+A compra envolveria ativos de energia solar e um consórcio de geração, como o Sol do Cerrado.  
+
+A Vale não firmou nenhum contrato formal para essa compra.  
+
+A decisão será tomada seguindo as regras internas de governança da empresa.  
+
+A Vale garante que informará os investidores sempre que houver mudanças relevantes.","58,63","0,732","0,461"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=966124&numVersao=1&numProtocolo=1441412&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Petrobras informa sobre remuneração aos acionistas.
+Rio de Janeiro, 06 de novembro de 2025 – A Petróleo Brasileiro S.A. – Petrobras, nos termos da Resolução CVM nº 44/21, informa que seu Conselho de Administração (CA), em reunião realizada hoje, aprovou o pagamento de dividendos intercalares no valor de R$ 12,16 bilhões, equivalente a R$ 0,94320755 por ação ordinária e preferencial em circulação, como antecipação da remuneração aos acionistas relativa ao exercício de 2025, declarada com base no balanço de 30 de setembro de 2025. 
+O pagamento proposto está alinhado à Política de Remuneração aos Acionistas (Política) vigente, que prevê que, em caso de endividamento bruto igual ou inferior ao nível máximo de endividamento definido no plano de negócios em vigor (atualmente US$ 75 bilhões), e observadas as demais condições da Política, a Petrobras deverá distribuir aos seus acionistas 45% do fluxo de caixa livre. Esta distribuição não compromete a sustentabilidade financeira da companhia. 
+Os proventos serão pagos em duas parcelas nos meses de fevereiro e março de 2026, da seguinte forma: 
+Valor a ser pago: R$ 0,94320755 por ação ordinária e preferencial em circulação, sendo que: 
+(i) a primeira parcela, no valor de R$ 0,47160378 por ação ordinária e preferencial em circulação, será paga em 20 de fevereiro de 2026. 
+(ii) a segunda parcela, no valor de R$ 0,47160377 por ação ordinária e preferencial em circulação, será paga em 20 de março de 2026.  
+Data de corte: dia 22 de dezembro de 2025 para os detentores de ações de emissão da Petrobras negociadas na B3 e record date em 26 de dezembro de 2025 para os detentores de ADRs negociados na New York Stock Exchange (NYSE). As ações da Petrobras serão negociadas ex-direitos na B3 a partir de 23 de dezembro de 2025. 
+Data de pagamento: para os detentores de ações de emissão da Petrobras negociadas na B3, o pagamento da primeira parcela será realizado no dia 20 de fevereiro de 2026 e o da segunda parcela no dia 20 de março de 2026. Os detentores de ADRs receberão os pagamentos a partir de 27 de fevereiro de 2026 e a partir de 27 de março de 2026, respectivamente. 
+Forma de distribuição:  A definição da forma de distribuição (se sob a forma de dividendos e/ou juros sobre capital próprio) ocorrerá até 11 de dezembro de 2025 e será tempestivamente comunicada ao mercado.  
+Importante ressaltar que os valores de cada parcela serão atualizados pela variação da taxa Selic de 31 de dezembro de 2025 até a data de cada pagamento; e em caso de pagamento sob a forma de juros sobre capital próprio (JCP), incidirá imposto de renda, conforme legislação vigente. Por fim, esses proventos serão devidamente abatidos da remuneração aos acionistas a ser aprovada na Assembleia Geral Ordinária de 2026 relativa ao exercício de 2025.  
+A Política de Remuneração aos Acionistas pode ser acessada pelo site da companhia (http://www.petrobras.com.br/ri).","53,58","Petrobras informa o pagamento de dividendos intercalares no valor de R$ 12,16 bilhões, ou R$ 0,943 por ação, como antecipação da remuneração dos acionistas pelo exercício de 2025. O pagamento será feito em duas parcelas: R$ 0,471 em 20 de fevereiro e R$ 0,471 em 20 de março de 2026. A data de corte é 22 de dezembro para ações na B3 e 26 de dezembro para ADRs na NYSE. O pagamento será feito em 20 de fevereiro e março para ações na B3, e em 27 de fevereiro e março para ADRs. A forma de distribuição (dividendos ou juros sobre capital próprio) será comunicada até 11 de dezembro. Os valores podem variar com a taxa Selic, e se for JCP, incidirá imposto de renda. Os proventos serão deduzidos da remuneração aprovada na Assembleia Geral de 2026. A política completa está no site da Petrobras.","73,79","0,735","0,303","Petrobras informa o pagamento aos donos de ações.  
+O pagamento será feito em duas parcelas em fevereiro e março de 2026.  
+A decisão segue a política vigente de remuneração aos acionistas.  
+O valor por ação é de R$ 0,94320755, com R$ 0,47 por parcela.  
+A data de corte é 22 de dezembro para ações na B3 e 26 de dezembro para ADRs.  
+A forma de distribuição será comunicada até 11 de dezembro de 2025.","84,59","0,735","0,154","Petrobras informa o pagamento aos donos de ações em duas parcelas.  
+O valor total é de R$ 12,16 bilhões, distribuídos em fevereiro e março de 2026.  
+A primeira parcela será paga em 20 de fevereiro de 2026 e a segunda em 20 de março de 2026.  
+O pagamento segue a política vigente que define 45% do fluxo de caixa livre.  
+A distribuição não afeta a sustentabilidade financeira da empresa.  
+A forma de pagamento será anunciada até 11/12/2025.","74,56","0,727","0,161","Petrobras aprova dividendos intercalares de R$ 12,16 bilhões.  
+Dividendos pagos em fevereiro e março de 2026.  
+Valor por ação: R$ 0,9432.  
+Primeira parcela: R$ 0,4716, em 20 de fevereiro.  
+Segunda parcela: R$ 0,4716, em 20 de março.  
+Corte de ações: 22 de dezembro para B3, 26 para ADRs.","90,36","0,713","0,100","A Petrobras decidiu pagar dividendos aos seus acionistas como forma de recompensar o investimento.  
+
+O valor total da distribuição é de R$ 12,16 bilhões, em duas parcelas, no valor de cerca de R$ 0,94 por ação.  
+
+Os acionistas receberão a primeira parte em 20 de fevereiro e a segunda em 20 de março de 2026.  
+
+O pagamento depende do balanço da empresa em setembro de 2025, e não afeta a saúde financeira da companhia.  
+
+A forma de pagamento – como dividendos ou juros – será anunciada antes de 11 de dezembro de 2025.","71,67","0,747","0,194"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=940826&numVersao=1&numProtocolo=1416114&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Petrobras aprova novo Presidente do Conselho de Administração.
+Rio de Janeiro, 21 de agosto de 2025 – A Petróleo Brasileiro S.A.- Petrobras, em continuidade ao Fato Relevante divulgado em 20/08/2025, informa que seu Conselho de Administração (CA), em reunião realizada hoje, aprovou o Conselheiro Bruno Moretti como novo Presidente do CA, nos termos do §2º do art. 18 do Estatuto Social, com mandato até a próxima Assembleia Geral. 
+Bruno Moretti é formado em economia pela Universidade Federal Fluminense (UFF), possui mestrado em Economia da Indústria pela Universidade Federal do Rio de Janeiro (UFRJ), Doutorado em Sociologia pela Universidade de Brasília (UnB) e estágio pós-doutoral em Sociologia pela UnB. Atualmente, é doutorando em Desenvolvimento Econômico pela Unicamp. Iniciou sua carreira como Analista de Planejamento e Orçamento do Ministério do Planejamento, em 2004. Entre 2009 e 2012, foi Diretor da Secretaria de Planejamento e Investimentos Estratégicos. De 2013 a 2014 atuou como Assessor da Secretaria Executiva do Ministério do Planejamento e foi membro suplente do Conselho Deliberativo da Funpresp. Entre 2013 e 2015, atuou no Conselho de Administração e Conselho Fiscal do EBSERH. Foi Diretor e Secretário-Executivo Substituto da Secretaria Executiva do Ministério da Saúde, entre 2014 e 2015. De 2015 a 2016 atuou como Secretário-Executivo Adjunto da Casa-Civil da Presidência da República. Foi Assessor Técnico no Senado Federal, de Economia, infraestrutura, política fiscal e orçamento público entre 2017 e 2022. Atualmente é Secretário Especial de Análise Governamental da Presidência da República, Conselheiro de Administração da Petrobras e Membro do Comitê de Investimentos da Petrobras.","35,65","Petrobras aprova Bruno Moretti como novo Presidente do Conselho de Administração.  
+O presidente é formado em economia pela UFF, tem mestrado e doutorado em economia e sociologia, e está fazendo pós-doutorado em desenvolvimento econômico. Iniciou carreira no Ministério do Planejamento em 2004. Foi diretor de planejamento, secretário da saúde e assessor técnico no Senado. Atualmente é secretário especial de análise governamental, conselheiro da Petrobras e membro do comitê de investimentos. O Conselho de Administração aprovou a nomeação por decisão de 21 de agosto de 2025, com mandato até a próxima assembleia geral.","31,15","0,739","0,364","21/08/2025 – Petrobras informa que seu Conselho de Administração escolheu um novo presidente.  
+
+O novo presidente, Bruno Moretti, foi escolhido seguindo as regras do estatuto social da empresa.  
+
+Bruno Moretti tem formação em economia e experiência em planejamento e gestão governamental.  
+
+Ele atuou em diversos ministérios e conselhos, com foco em planejamento e orçamento público.  
+
+Atualmente, é secretário especial de análise governamental e conselheiro da Petrobras.  
+
+O novo presidente terá mandato até a próxima reunião da assembleia geral.","35,22","0,751","0,308","Petrobras aprovou Bruno Moretti como novo Presidente do Conselho de Administração.  
+O nome foi escolhido seguindo as regras do Estatuto Social da empresa.  
+Bruno Moretti tem formação em economia e experiência em planejamento e políticas públicas.  
+Ele atuou em diversos ministérios e em órgãos de gestão governamental.  
+O mandato dele vai até a próxima assembleia geral.  
+A nomeação foi informada em 21 de agosto de 2025.","50,52","0,699","0,261","Petrobras aprova Bruno Moretti como novo presidente do Conselho de Administração.  
+Reunião ocorreu em 21 de agosto de 2025.  
+Bruno Moretti tem formação em economia e sociologia.  
+É secretário especial de análise governamental.  
+Mandato vai até a próxima assembleia geral.","41,91","0,721","0,158","A Petrobras nomeou Bruno Moretti como novo presidente de seu Conselho de Administração.  
+
+Ele tem formação em economia e experiência em planejamento e gestão pública.  
+
+Bruno atuou em diversos cargos de alto nível no governo brasileiro.  
+
+Foi secretário especial de análise governamental e participou de decisões importantes.  
+
+Ele foi escolhido por ter conhecimento técnico e experiência em políticas públicas.","33,24","0,690","0,233"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=940248&numVersao=1&numProtocolo=1415536&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Petrobras informa sobre Presidente do Conselho de Administração.
+Rio de Janeiro, 20 de agosto de 2025 – A Petróleo Brasileiro S.A.- Petrobras, em continuidade ao Comunicado divulgado em 16/12/2024, informa que recebeu hoje a renúncia, com efeitos imediatos, do Presidente do Conselho de Administração da companhia, Pietro Adamo Sampaio Mendes, aos cargos de Presidente e membro do Conselho de Administração da Petrobras em razão de novos desafios profissionais. 
+O Sr. Pietro Adamo Sampaio Mendes, ao renunciar, deixou seu agradecimento aos colegas de Conselho, aos membros da Diretoria Executiva liderados pela presidente Magda Chambriard e às equipes da Petrobras pela colaboração durante seu período à frente do Conselho de Administração e desejou sucesso a todos na caminhada que prossegue. 
+O §2º do Art.18 do Estatuto Social da companhia prevê que o próprio Conselho de Administração pode eleger o substituto no caso de vacância do cargo de Presidente do Conselho, eleição válida até a próxima Assembleia Geral que vier a ocorrer. 
+A Petrobras manterá o mercado informado sobre o tema.  ","46,00","Petrobras informa que Pietro Adamo Sampaio Mendes renunciou, com efeitos imediatos, aos cargos de Presidente e membro do Conselho de Administração devido a novos desafios profissionais. O executivo agradeciu aos colegas, à diretoria e às equipes pela colaboração e deseja sucesso a todos. O Conselho de Administração poderá nomear um substituto, até a próxima assembleia geral. A empresa manterá o mercado informado.","31,15","0,792","0,369","20/08/2025 – Petrobras informa renúncia do presidente do conselho.  
+Pietro Adamo Sampaio Mendes renuncia com efeitos imediatos.  
+Ele agradece colegas, diretoria e equipes pela colaboração.  
+O conselho pode eleger substituto seguindo o artigo 18.  
+Petrobras manterá o mercado informado sobre o ajuste.","31,56","0,753","0,250","Petrobras informa a renúncia do Presidente do Conselho de Administração.  
+O presidente Pietro Adamo Sampaio Mendes deixou o cargo com efeitos imediatos.  
+O Conselho de Administração pode escolher um substituto conforme a lei.  
+A decisão segue o ajuste previsto no Estatuto Social da empresa.  
+A Petrobras manterá os investidores informados sobre o assunto.","40,14","0,774","0,315","Petrobras anuncia renúncia de Pietro Adamo Sampaio Mendes.  
+Ele renuncia aos cargos de presidente e conselheiro.  
+Decisão tem efeito imediatto.  
+Conselho pode escolher substituto.  
+Petrobras informará o público sobre o assunto.","32,41","0,717","0,185","A Petrobras anunciou que o presidente do conselho deixou seus cargos.  
+
+Ele renunciou por causa de novos desafios no trabalho.  
+
+O conselho da empresa agora fará a escolha de um novo presidente.  
+
+A decisão será válida até a próxima reunião geral dos sócios.  
+
+A empresa manterá os investidores informados sobre o processo.","59,32","0,709","0,310"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=899554&numVersao=1&numProtocolo=1374842&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"Petrobras informa sobre nova descoberta de petróleo na Bacia de Santos.
+Rio de Janeiro, 9 de maio de 2025 - A Petróleo Brasileiro S.A. – Petrobras informa que identificou a presença de petróleo de excelente qualidade e sem contaminantes no pré-sal da Bacia de Santos, em poço exploratório no bloco Aram.   
+O poço 3-BRSA-1396D-SPS está localizado a 248 km da cidade de Santos-SP, em profundidade d’água de 1.952 metros. A perfuração desse poço já foi concluída, tendo o intervalo portador de petróleo sido constatado através de perfis elétricos, indícios de gás e amostragem de fluido. 
+O consórcio dará início às análises laboratoriais para caracterizar as condições dos reservatórios e fluidos encontrados, que permitirão avaliar o potencial da área. Além disso, serão perfurados mais dois poços e realizado um teste de formação como parte do Plano de Avaliação de Descoberta (PAD). 
+O PAD tem prazo final em 2027 e atividades adicionais de aquisição de dados poderão ser realizadas, conforme planejamento e obrigações contratuais estabelecidas junto à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP). 
+O bloco Aram foi adquirido em março de 2020, na 6ª rodada de licitação da ANP, sob o regime de Partilha de Produção, tendo a Pré-Sal Petróleo S.A. (PPSA) como gestora. A Petrobras é a operadora do bloco e detém 80% de participação, em parceria com a empresa CNPC (20%).","59,90","Petrobras anuncia descoberta de petróleo de alta qualidade na Bacia de Santos, no bloco Aram. O poço 3-BRSA-1396D-SPS está a 248 km de Santos, em 1.952 metros de profundidade. A perfuração foi concluída e detectou petróleo puro, sem contaminantes, com base em testes elétricos, gás e amostras de fluido. Agora, serão feitas análises laboratoriais para entender os reservatórios, além de perfurar mais dois poços e realizar um teste de formação. O plano de avaliação termina em 2027, com possíveis atividades extras conforme o contrato com a ANP. O bloco foi comprado em 2020 e é operado por Petrobras com 80% de participação, em parceria com a CNPC (20%).","68,68","0,802","0,482","Petrobras informa descoberta de petróleo na Bacia de Santos.  
+O poço está a 248 km de Santos, em 1.952 metros de profundidade.  
+A presença de petróleo puro foi confirmada por perfis elétricos e amostras.  
+Serão feitas análises para avaliar o potencial do reservatório.  
+O plano de avaliação termina em 30/12/2027, com possibilidade de novas perfurações.  
+Petrobras controla 80% do bloco, com parceria da CNPC por 20%.","69,63","0,769","0,295","Petrobras informa sobre nova descoberta de petróleo na Bacia de Santos.  
+O poço está localizado a 248 km de Santos, em 1.952 metros de profundidade d’água.  
+A presença de petróleo puro foi confirmada por perfis elétricos e amostras de fluido.  
+Será feito ajuste para avaliar o potencial do reservatório com análises e novos perfis.  
+O bloco foi adquirido em 2020 e tem prazo final de avaliação em 2027.","70,21","0,769","0,304","Petrobras descobriu petróleo puro na Bacia de Santos.  
+Poço 3-BRSA-1396D-SPS está a 248 km de Santos, em 1.952 m de profundidade.  
+Fizeram análises para avaliar o petróleo e gás encontrado.  
+Será feito teste de formação e perfuração de mais poços.  
+Bloco Aram foi adquirido em 2020, com Petrobras como operadora.  
+Petrobras tem 80% no bloco, CNPC 20%.","81,89","0,767","0,254","A Petrobras descobriu petróleo limpo e de boa qualidade na Bacia de Santos.  
+
+O poço está a 248 km de Santos, em águas profundas de 1.952 metros.  
+
+Já foi feita a perfuração e detectados sinais de petróleo e gás no local.  
+
+A empresa fará testes e análises para entender o potencial do local.  
+
+Petrobras e parceiros planejam perfurar mais poços e avaliar o que foi encontrado.  
+
+O bloco foi comprado em 2020 e será estudado até 2027 com apoio do governo.","82,19","0,747","0,362"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=868751&numVersao=1&numProtocolo=1344025&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"Petrobras assina acordo para encerrar litígio com a EIG Energy nos Estados Unidos.
+Rio de Janeiro, 07 de março de 2025 – A Petróleo Brasileiro S.A. – Petrobras informa, em continuidade aos comunicados de 31/03/2017 e 09/08/2022, que seu Conselho de Administração aprovou celebração de acordo para encerramento de pendência judicial com a EIG Energy Fund XIV, LP. e outros (EIG). O valor desta contingência está provisionado nas Demonstrações Financeiras da Petrobras e vem sendo atualizado desde 2022. 
+O acordo não constitui reconhecimento de culpa ou de prática de atos irregulares pela Petrobras e atende aos melhores interesses da Companhia e de seus acionistas, tendo em vista as peculiaridades da legislação norte-americana, aplicável ao julgamento da causa, bem como o estágio processual e as características de litígios nas Cortes Federais dos Estados Unidos. 
+A ação judicial foi proposta em face da Companhia perante a Corte Federal do Distrito de Columbia, nos Estados Unidos, e é relacionada ao investimento da EIG no FIP Sondas, ex-acionista da Sete Brasil Participações S.A. (Sete Brasil). 
+Nos termos do acordo, a Petrobras pagará US$ 283 milhões, ao passo que a EIG pedirá o encerramento da ação e renunciará a qualquer direito relacionado à disputa. ","52,05","Petrobras assina acordo para encerrar processo judicial com a EIG Energy nos EUA.  
+O acordo, aprovado pelo Conselho de Administração, prevê que a Petrobras pague US$ 283 milhões e a EIG encerre a ação, renunciando a qualquer direito na disputa. O valor já está contado nos balanços financeiros da empresa. O acordo não reconhece culpa da Petrobras e foi feito para alinhar aos interesses da companhia e dos acionistas, considerando as características do sistema judicial norte-americano. A ação original envolvia investimento da EIG no FIP Sondas, ex-acionista da Sete Brasil.","47,17","0,766","0,452","Petrobras assina acordo para encerrar litígio com a EIG Energy nos EUA.  
+
+O acordo segue a legislação norte-americana e as características dos processos norte-americanos.  
+
+A decisão atende aos interesses da Petrobras e ao pagamento aos donos de ações.  
+
+O valor de US$ 283 milhões será pago pela empresa como parte do ajuste.  
+
+A EIG renuncia a qualquer direito e pede o encerramento da ação judicial.  
+
+O acordo foi informado em 07/03/2025, seguindo o processo previsto.","60,92","0,754","0,377","Petrobras assina acordo para encerrar litígio com a EIG Energy nos EUA.  
+O pagamento de US$ 283 milhões será feito em 07/03/2025.  
+O acordo segue os interesses da companhia e dos donos de ações.  
+A decisão não reconhece culpa da Petrobras nem atos irregulares.  
+O litígio envolve investimento da EIG no FIP Sondas.  
+A ação está em curso na Corte Federal do Distrito de Columbia.","77,14","0,766","0,327","Petrobras assina acordo com EIG Energy.  
+Acordo encerra litígio nos EUA.  
+Valor é de US$ 283 milhões.  
+Pagamento será feito por Petrobras.  
+EIG renuncia ao processo.  
+Nenhum reconhecimento de culpa.","66,10","0,696","0,151","A Petrobras fechou um acordo para resolver um problema judicial nos Estados Unidos.  
+
+O litígio envolvia um investimento feito por uma empresa estrangeira em uma empresa brasileira.  
+
+A empresa pagará US$ 283 milhões para encerrar o caso.  
+
+A decisão não acusa a Petrobras de ter feito algo errado.  
+
+O acordo respeita as regras legais dos Estados Unidos e beneficia a companhia e seus acionistas.  
+
+A ação estava em andamento há anos, mas agora foi encerrada com um pagamento definido.","52,35","0,712","0,397"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=959294&numVersao=2&numProtocolo=1434582&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"A Companhia de Saneamento do Paraná – Sanepar (“Companhia”), em cumprimento à Resolução CVM nº 44/2021, informa a seus acionistas, investidores e ao mercado em geral que a Agepar, em Reunião de seu Conselho Diretor realizada nesta data, informou sobre solicitação de manifestação feita pelo Tribunal de Contas do Estado do Paraná – TCE-PR à Agência diante de questionamento formulado pela Associação Paranaense de Defesa dos Direitos do Consumidor – APDC ao TCE-PR, e ratificou a decisão do Conselheiro-Presidente da Agepar de adoção de medida cautelar para suspensão dos efeitos da previsão de compartilhamento de ganhos com recuperação de créditos fiscais, prevista no Manual de Revisão Tarifária dos Serviços de Saneamento Básico de Água e Esgoto e suas aplicações (Nota Técnica nº 7/2024 – AGEPAR – DRE/CSB), até manifestação final de mérito por parte do Conselho Diretor da Agepar. 
+O Conselho Diretor da Agepar informou, ainda, que o objeto dos autos consiste em tema extenso e complexo que deve ser submetido à análise das áreas técnicas da Agência e que não houve tempo hábil para que tal providência fosse levada a efeito previamente ao decurso de prazo fornecido pelo TCE-PR. Assim, para evitar que fossem adotadas providências irreversíveis em relação à destinação dos valores abordados, determinou a adoção de medida cautelar supracitada. 
+A Companhia informa que envidará todos os esforços para resguardar seus interesses e manterá o mercado informado sobre o tema.","3,27","A Sanepar informa que, conforme resolução da CVM, a Agepar decidiu suspender temporariamente a previsão de compartilhamento de ganhos com recuperação de créditos fiscais, por solicitação do TCE-PR. Essa medida foi tomada por causa da complexidade do assunto e por falta de tempo para analisar antes do prazo estabelecido. A companhia afirmará que está trabalhando para proteger seus interesses e manter o mercado informado.","31,61","0,719","0,276","05/04/2025 – A Sanepar informa que a Agepar suspende temporariamente a previsão de compartilhamento de ganhos.  
+
+05/04/2025 – A decisão foi tomada seguindo um questionamento do TCE-PR sobre créditos fiscais.  
+
+05/04/2025 – A medida cautelar evita que valores sejam destinados sem análise final.  
+
+05/04/2025 – A Agência analisará o tema com as áreas técnicas antes de tomar decisões finais.  
+
+05/04/2025 – A Sanepar manterá os investidores informados sobre o andamento do processo.  
+
+05/04/2025 – O pagamento aos donos de ações não será afetado pelo ajuste temporário.","59,35","0,680","0,371","A Sanepar informa que está adotando medida cautelar por solicitação do TCE-PR.  
+A suspensão da previsão de compartilhamento de ganhos foi decidida em 05/09/2025.  
+A decisão segue a análise técnica da Agepar e não houve tempo para ação anterior.  
+A Companhia mantém o mercado informado sobre o tema complexo.  
+Vai proteger os interesses dos acionistas com ação cautelar.","57,54","0,722","0,250","Sanepar informa que a Agepar suspendeu temporariamente uma previsão de compartilhamento de ganhos com o governo, por solicitação do TCE-PR.  
+A suspensão foi decidida por falta de tempo para análise técnica completa.  
+Sanepar garante que manterá o mercado informado sobre o tema.","39,51","0,704","0,181","A empresa foi informada de um questionamento feito pelo TCE-PR sobre como os ganhos serão divididos.  
+O TCE-PR pediu que a Agepar suspenda temporariamente a divisão de lucros com o governo.  
+A empresa não teve tempo para analisar tudo antes do prazo do TCE-PR acabar.  
+Para evitar problemas, a Agepar decidiu suspender a regra de compartilhar lucros por enquanto.  
+A empresa vai continuar analisando o caso e manter os investidores informados.","56,61","0,693","0,306"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=974047&numVersao=1&numProtocolo=1449335&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"A Companhia de Saneamento do Paraná – Sanepar (“Companhia”), em cumprimento ao disposto nas resoluções da CVM, comunica a seus acionistas, investidores e ao mercado em geral que, na Reunião da Diretoria Executiva realizada nesta data, foi aprovado o Plano de Equacionamento do Déficit Técnico do Plano de Previdência - FusanPrev com data-base em 31 de dezembro de 2024. 
+De acordo com a Lei Complementar Nº 109/2001, o resultado deficitário nos planos ou nas entidades fechadas deve ser equacionado por patrocinadores, participantes e assistidos, na proporção existente entre as suas contribuições. 
+Em respeito à Resolução CNPC nº 30/2018, o início do Plano de Equacionamento deverá ser até o início de vigência do plano de custeio estabelecido pela avaliação atuarial de encerramento de exercício em que se deu a aprovação do referido plano de equacionamento, qual seja, abril de 2026. 
+O montante total a ser equacionado é da ordem de R$ 83,7 milhões, sendo de responsabilidade da Companhia o valor de R$ 41,2 milhões, em valores de 31/12/2024, a ser pago em parcelas mensais e sucessivas, iniciando-se em abril de 2026 e finalizando em fevereiro de 2038. O valor da parcela mensal da Patrocinadora é de aproximadamente R$ 288 mil, acrescido de juros atuariais e atualização monetária pelo INPC/IBGE. 
+Destaca-se que há provisão contábil no Balanço Patrimonial da Companhia referente ao Plano de Previdência - FusanPrev que contempla o déficit apurado no encerramento do ano de 2024.","29,13","A Sanepar comunica que, na reunião da diretoria, foi aprovado o plano para equacionar o déficit técnico do plano de previdência FusanPrev, com data-base em 31/12/2024. De acordo com a lei, o déficit deve ser dividido entre os participantes e patrocinadores, na proporção de suas contribuições. O plano começa em abril de 2026, quando o plano de custeio for aprovado. O total a ser equacionado é de R$ 83,7 milhões, sendo R$ 41,2 milhões de responsabilidade da Sanepar, a ser pago em parcelas mensais, a partir de abril de 2026, até fevereiro de 2038. A patrocinadora pagará cerca de R$ 288 mil por mês, com juros e atualização pelo INPC. O déficit do ano de 2024 está previsto no balanço da empresa.","68,14","0,782","0,517","A Sanepar informou a aprovação do plano de ajuste do déficit técnico do FusanPrev.  
+O déficit deve ser equacionado por acionistas, participantes e assistidos, seguindo a proporção de suas contribuições.  
+O ajuste começará em abril de 2026, no início da vigência do plano de custeio.  
+A empresa responsável por R$ 41,2 milhões pagará em parcelas mensais, de abril de 2026 a fevereiro de 2038.  
+A patrocinadora pagará cerca de R$ 288 mil por mês, com juros e atualização pelo INPC/IBGE.  
+No balanço da empresa há uma provisão para o déficit apurado em 31/12/2024.","64,97","0,766","0,394","A Sanepar comunica a aprovação do plano de equacionamento do déficit técnico do FusanPrev.  
+O déficit será ajustado por acionistas, participantes e assistidos conforme a lei.  
+A empresa tem responsabilidade por R$ 41,2 milhões a serem pagos em abril de 2026.  
+O pagamento será feito em parcelas mensais até fevereiro de 2038.  
+O valor mensal da patrocinadora é de R$ 288 mil com juros e atualização pelo INPC.  
+Há provisão no balanço para o déficit apurado em 31/12/2024.","61,75","0,754","0,331","Sanepar aprova plano para equacionar déficit previdenciário.  
+Deficit de R$ 83,7 milhões será equacionado em 2026.  
+Companhia paga R$ 41,2 milhões em parcelas de abril/2026 a fevereiro/2038.  
+Patrocinadora paga R$ 288 mil por mês com ajustes inflacionários.  
+Deficit do ano de 2024 está registrado no balanço da empresa.","62,57","0,693","0,203","A empresa decidiu corrigir um déficit em seu plano de previdência.  
+O problema ocorre porque a empresa pagou menos do que deveria para os funcionários.  
+O déficit de R$ 83,7 milhões será resolvido em parcelas, começando em abril de 2026.  
+A empresa vai pagar R$ 41,2 milhões em meses sucessivos, até fevereiro de 2038.  
+Já está registrada na conta da empresa uma dívida para esse pagamento.","67,08","0,698","0,280"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=889829&numVersao=1&numProtocolo=1365103&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"A Companhia de Saneamento do Paraná – Sanepar (“Companhia”) em cumprimento ao disposto na Resolução CVM nº 44/2021 e em continuidade ao Fato Relevante de 20 de março de 2025, informa a seus acionistas, investidores e ao mercado em geral, que o Conselho de Administração em sua 10ª Reunião Extraordinária, realizada nesta data, considerando a publicação, em 10 de abril de 2025, da Lei Orçamentária Anual da União de 2025 (LOA 2025), Lei 15.121/2025, aprovou o registro contábil e recolhimento dos  tributos por ocasião do registro da receita auferida, relativo ao Processo da Ação Judicial movida contra a União sobre Imunidade Tributária Recíproca de IRPJ-Imposto de Renda Pessoa Jurídica, precatório nº 1189180920244019198. 
+O registro contábil supra mencionado envolve lançamentos no ativo, passivo e resultado, entre outros: (i) ao reconhecimento da receita; (ii) constituição de passivo regulatório referente ao compartilhamento em favor da modicidade tarifária atualmente definido pela Agência Reguladora de Serviços Públicos Delegados do Paraná (Agepar); (iii) provisão de honorários advocatícios e; (iv) recolhimento de Tributos; destacando que tais registros se encontram em fase de elaboração pela Administração visando sua publicação por ocasião da divulgação das Demonstrações Contábeis Intermediárias do 1º Trimestre de 2025. 
+Em relação aos demais andamentos relativos ao processo, reiteramos que: 
+I. Ainda não há cronograma estabelecido para o recebimento pela Companhia dos benefícios econômicos (entrada de recursos) originários do precatório; 
+II. A Companhia enviou ofício à Agepar, em 20 de março de 2025, solicitando tratamento regulatório específico em relação à ação de imunidade tributária (oriunda da ação originária nº 0008066- 96.1994.4.01.3400 e do cumprimento de sentença nº 1074228-74.2022.4.01.3400, ambas da 21ª Vara Federal Cível da Seção Judiciária do Distrito Federal), diante do caráter excepcional do tema. 
+A Companhia manterá o mercado informado sobre o andamento deste processo.","36,24","A Sanepar, em cumprimento à Resolução CVM nº 44/2021 e ao Fato Relevante de 20 de março de 2025, informa que seu Conselho de Administração, em reunião extraordinária de 20 de abril de 2025, decidiu registrar e recolher tributos relacionados a um processo judicial contra a União sobre imunidade tributária, referente ao precatório nº 1189180920244019198.  
+
+O registro contábil inclui: reconhecimento da receita, criação de passivo por compartilhamento tarifário definido pela Agepar, provisão de honorários advocatícios e recolhimento de tributos. Esses lançamentos estão em fase de elaboração pela administração e serão divulgados junto com as demonstrações contábeis intermediárias do 1º trimestre de 2025.  
+
+Sobre o processo:  
+I. Ainda não há previsão para a entrada de recursos pela empresa;  
+II. A Sanepar já enviou ofício à Agepar em 20 de março de 2025, solicitando tratamento especial por causa da natureza excepcional do tema.  
+
+A Companhia manterá o mercado informado sobre o andamento.","38,13","0,773","0,515","05/04/2025 – O conselho de administração aprova o registro contábil do recebimento de tributos.  
+10/04/2025 – A Companhia ajusta os lançamentos em ativo, passivo e resultado com base na LOA 2025.  
+O processo ainda não tem cronograma para que a Companhia receba os recursos do precatório.  
+A Companhia pediu tratamento regulatório à Agepar por causa da imunidade tributária.  
+A Companhia seguirá informando o público sobre o andamento do processo.","49,73","0,695","0,237","A Sanepar informa que registrou contábil a receita do precatório em 20 de abril de 2025.  
+O ajuste contábil inclui lançamentos em ativo, passivo e resultado, conforme definido pela Agepar.  
+Ainda não há data para a Companhia receber os recursos do precatório.  
+A empresa solicitou tratamento regulatório especial para o caso de imunidade tributária.  
+A Sanepar manterá os investidores informados sobre o andamento do processo.","35,20","0,701","0,223","Sanepar aprova registro contábil em 20 de março de 2025.  
+Reconhece receita e cria passivo por imunidade tributária.  
+Recolhe tributos e paga honorários em processo judicial.  
+Nenhum dinheiro ainda foi recebido pela empresa.  
+Sanepar pediu tratamento especial à Agepar.  
+Manterá o mercado informado sobre o andamento.","35,07","0,666","0,158","A empresa fez um registro contábil depois de receber a nova lei orçamentária de 2025.  
+Ela registrou uma receita e criou um passivo para o pagamento de honorários de advogados.  
+O dinheiro ainda não chegou à empresa, e não há data definida para receber os benefícios.  
+A empresa pediu à agência reguladora um tratamento especial para o caso.  
+Ela continuará informando o mercado sobre o andamento do processo.","52,15","0,670","0,234"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=864116&numVersao=1&numProtocolo=1339390&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"A Companhia de Saneamento do Paraná – Sanepar (“Companhia”), em cumprimento ao disposto na Resolução CVM nº 44/2021, e em continuidade aos Comunicados ao Mercado de 18 de dezembro de 2024 e 27 de janeiro de 2025, comunica a seus acionistas, investidores e ao mercado em geral que o Conselho Diretor da Agência Reguladora de Serviços Públicos Delegados do Paraná (Agepar), em reunião realizada nesta data, tornou pública a análise das contribuições recebidas na Consulta Pública nº 11/2024 e informou a respeito da Audiência Pública, a ser realizada em 13 de março de 2025, às 10h00, sobre a Nota Técnica DRE/CSB nº 003/2025, que se refere à aplicação preliminar das metodologias de cálculo tarifário para a 3ª Revisão Tarifária Periódica dos serviços de água e esgoto da Sanepar. 
+O Conselho Diretor da Agepar divulgou a tarifa média preliminar para os serviços de água e esgoto, que resultou em R$ 6,89/m³ (seis reais e oitenta e nove centavos por metro cúbico), e o índice de correção de 4,6969%, calculado preliminarmente, a ser aplicado de forma linear em toda a estrutura tarifária da Sanepar atualmente vigente. 
+A Companhia manterá o mercado informado sobre o andamento do tema. ","6,58","A Sanepar comunica que o Conselho Diretor da Agepar divulgou a tarifa média preliminar de R$ 6,89/m³ e um índice de correção de 4,6969%, a ser aplicado em toda a estrutura tarifária atual. A audiência pública sobre o tema ocorrerá em 13 de março de 2025, às 10h. A empresa manterá o mercado informado sobre o andamento.","63,57","0,762","0,292","A Sanepar comunica o ajuste das tarifas após reunião do Conselho da Agepar.  
+
+A tarifa média preliminar é de R$ 6,89/m³, com índice de correção de 4,6969%.  
+
+O ajuste segue os critérios definidos na Resolução CVM nº 44/2021.  
+
+A audiência pública será realizada em 13/03/2025, às 10h00.  
+
+A Companhia informará os próximos passos sobre o tema.  
+
+O pagamento aos donos de ações será ajustado conforme a nova tarifa.","73,98","0,715","0,349","A Sanepar informa que o Conselho da Agepar analisou as contribuições da Consulta Pública de 2024.  
+A tarifa média preliminar é de R$ 6,89/m³, com índice de correção de 4,6969%.  
+A Companhia seguirá o ajuste de tarifas conforme a análise da Agepar.  
+O processo de revisão tarifária será acompanhado pelo mercado.  
+A audiência pública ocorrerá em 13/03/2025, às 10h00.  
+A decisão segue os procedimentos previstos na Resolução CVM nº 44/2021.","65,67","0,718","0,359","- Sanepar comunica decisão da Agepar sobre tarifas.  
+- Tarifa média preliminar é de R$ 6,89/m³.  
+- Índice de correção é de 4,6969%.  
+- Audiência pública será em 13 de março de 2025.  
+- Companhia manterá o mercado informado.","72,12","0,699","0,200","A empresa informa que o banco regulador analisou as sugestões dos investidores.  
+A tarifa média para água e esgoto caiu de R$ 7,20 para R$ 6,89 por metro cúbico.  
+O índice de correção foi definido em 4,7%, para ajustar o preço dos serviços.  
+A empresa continuará atualizando os investidores sobre o processo.  
+O evento de audiência será em 13 de março, para esclarecer as decisões.  
+A análise será feita com base em dados e sugestões recebidas até agora.","62,80","0,679","0,400"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=941615&numVersao=1&numProtocolo=1416903&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"8ª EMISSÃO DE DEBÊNTURES PARA RESGATE ANTECIPADO DAS DEBÊNTURES DA 6ª EMISSÃO.
+ITAÚSA S.A. (“Itaúsa”) (B3: ITSA3, ITSA4) comunica que, em continuidade à estratégia de gestão de passivos e desalavancagem iniciada ao final de 2022, provou a 8ª Emissão de Debêntures, não conversíveis em ações, no montante de R$ 1,0 bilhão (“8ª Emissão”). Os recursos da 8ª Emissão, somados a R$ 250 milhões de recursos próprios, serão utilizados para o resgate antecipado da totalidade das debêntures da 6ª Emissão da Itaúsa (“6ª Emissão”), no valor de R$ 1,25 bilhão (“Refinanciamento”). 
+A 6ª Emissão, que será resgatada, possui amortizações em 2029, 2030 e 2031, e custo de CDI+1,37% ao ano. A 8ª Emissão tem prazo de vencimento final de 10 anos, com amortizações em 2032, 2033, 2034 e 2035, e custo de CDI+0,6% ao ano, o que permite uma relevante redução do custo da dívida associada ao alongamento do prazo médio de vencimento.  
+O Refinanciamento reforça a nossa disciplina financeira e perfil conservador e, em conjunto com o resgate antecipado das debêntures da 4ª Emissão anunciado em 30 de junho de 2025, permitirá à Itaúsa: (i) reduzir o custo médio da dívida para CDI+1,1% ao ano; (ii) reduzir as amortizações entre 2029 e 2031; (iii) alongar o perfil da dívida e prazo médio de vencimento; e (iv) reduzir a dívida bruta em mais de 30% em relação a 31 de dezembro de 2024. 
+Nossos movimentos estratégicos de gestão de passivos refletem o compromisso da Itaúsa com a alocação eficiente de capital e criação de valor aos cionistas. 
+São Paulo (SP), 25 de agosto de 2025. ","56,26","Itaúsa comunica a emissão de 8ª debênture no valor de R$ 1,0 bilhão para resgatar antecipadamente as debêntures da 6ª emissão, no valor total de R$ 1,25 bilhão. A 6ª emissão tem amortizações em 2029, 2030 e 2031, com custo de CDI+1,37% ao ano. A 8ª emissão tem vencimento em 10 anos, com amortizações em 2032 a 2035, e custo de CDI+0,6% ao ano, reduzindo o custo da dívida. O resgate reduzirá o custo médio da dívida para CDI+1,1%, diminuirá as amortizações entre 2029 e 2031, alongará o prazo de vencimento e reduzirá a dívida bruta em mais de 30% em relação a dezembro de 2024. Essa ação reforça a disciplina financeira da empresa e ajuda a criar valor para os acionistas. São Paulo (SP), 25 de agosto de 2025.","72,23","0,769","0,492","Itaúsa emite R$1,0 bilhão de debêntures para resgate antecipado da 6ª emissão.  
+Os recursos serão usados para resgatar R$1,25 bilhão de debêntures da 6ª emissão.  
+A 8ª emissão tem menor custo, CDI+0,6%, e vence em 10 anos.  
+O refinanciamento reduz o custo médio da dívida para CDI+1,1%.  
+A ação reforça a disciplina financeira e reduz a dívida em mais de 30%.  
+Itaúsa segue seguindo sua política de gestão de passivos e valor para os donos de ações.","75,21","0,731","0,292","Itaúsa emite R$ 1,0 bilhão em novas debêntures para resgatar antecipadamente as da 6ª emissão.  
+O resgate antecipado ocorrerá com o uso de R$ 1,25 bilhão, incluindo recursos próprios de R$ 250 milhões.  
+A nova emissão tem menor custo, CDI+0,6%, e prazo de 10 anos, reduzindo o custo da dívida.  
+A operação diminui as amortizações entre 2029 e 2031 e alonga o prazo médio de vencimento.  
+Itaúsa reforça sua disciplina financeira e reduz a dívida bruta em mais de 30% em 31/12/2024.","68,50","0,743","0,311","Itaúsa emite R$ 1 bilhão em debêntures.  
+Resgata antecipadamente R$ 1,25 bilhão de debêntures da 6ª emissão.  
+Reduz custo da dívida para CDI+1,1%.  
+Alonga vencimento das dívidas e reduz amortizações.  
+Diminui dívida bruta em mais de 30%.","63,06","0,700","0,140","A empresa fez uma nova compra de títulos para reduzir seu dívida.  
+
+Essa compra custa menos que a anterior e tem vencimento mais distante.  
+
+A empresa vai resgatar um montante de títulos antigos antes do prazo.  
+
+Isso diminui o custo médio do dinheiro que a empresa precisa pagar.  
+
+A dívida total da empresa caiu em mais de 30% em relação ao final de 2024.  
+
+A empresa está mantendo um perfil seguro e controlado com suas finanças.","75,68","0,659","0,288"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=936222&numVersao=1&numProtocolo=1411510&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"Os membros efetivos do Conselho Fiscal da Itausa S.A. (“Itaúsa”), consoante inciso VI, do artigo 163, da Lei 6.404/76, procederam à análise das emonstrações contábeis intermediárias, individuais e consolidadas, referentes ao trimestre findo em 30.06.2025 (“Demonstrações do 2º trimestre/2025”), elaboradas conforme as normas contábeis e regulamentação da CVM aplicáveis, que foram revisadas pela BDO RCS Auditores Independentes S/S Ltda. (“BDO”), na qualidade de auditores independentes da Itaúsa para fins regulatórios, e pela PricewaterhouseCoopers Auditores Independentes Ltda. (“PwC”), na qualidade de auditores independentes da Itaúsa para fins de governança. 
+Verificada a exatidão de todos os elementos apreciados e considerando (i) os esclarecimentos prestados pela administração da Itaúsa; (ii) a recomendação favorável do Comitê de Auditoria; e (iii) os relatórios da BDO e da PwC sobre a revisão dessas Demonstrações do 2º trimestre/2025, emitidos sem ressalvas, os membros efetivos do Conselho Fiscal não tiveram conhecimento de nenhum fato ou evidência que indique que as informações incluídas nas demonstrações contábeis intermediárias e nas correspondentes notas explicativas, relativas ao trimestre encerrado no período, não estejam em condições de serem divulgadas. São Paulo (SP), 11 de agosto de 2025. (aa) Guilherme Tadeu Pereira Júnior – Presidente; Elaine Maria de Souza Funo, Lucianna Raffaini Carvalho Costa, Michael Gordon Findlay e Vagner Lacerda Ribeiro – Conselheiros.","32,65","Os membros efetivos do Conselho Fiscal da Itausa analisaram as demonstrações contábeis do 2º trimestre de 2025, revisadas por auditores independentes (BDO e PwC), que emitiram relatórios sem ressalvas. Com base nos esclarecimentos da administração, na recomendação do Comitê de Auditoria e nos relatórios dos auditores, o conselho concluiu que todas as informações contidas nas demonstrações estão corretas e podem ser divulgadas. São Paulo, 11 de agosto de 2025. Guilherme Tadeu Pereira Júnior – Presidente; Elaine Maria de Souza Funo, Lucianna Raffaini Carvalho Costa, Michael Gordon Findlay e Vagner Lacerda Ribeiro – Conselheiros.","32,37","0,758","0,445","Os membros do Conselho Fiscal analisaram as demonstrações contábeis do 2º trimestre de 2025.  
+As demonstrações foram revisadas por auditores independentes, seguindo as normas da CVM.  
+Os auditores emitiram relatórios sem ressalvas, confirmando a precisão dos dados.  
+A administração e o Comitê de Auditoria forneceram esclarecimentos adequados.  
+Não houve evidência de erros ou falhas que impeça o pagamento aos donos de ações.  
+São Paulo (SP), 11/08/2025.","49,47","0,715","0,316","O Conselho Fiscal analisou as demonstrações do 2º trimestre de 2025.  
+As demonstrações foram revisadas por auditores independentes e não apresentaram ressalvas.  
+Os membros do conselho confirmaram que as informações estão corretas e podem ser informadas.  
+A aprovação foi emitida em 11/08/2025, com a participação de todos os conselheiros.  
+Nenhum fato foi identificado que leve a questionar a veracidade das demonstrações.","46,70","0,668","0,292","O Conselho Fiscal analisou as demonstrações do 2º trimestre de 2025.  
+As demonstrações foram revisadas por BDO e PwC sem ressalvas.  
+Os membros do Conselho não encontraram evidências de erros ou problemas.  
+As informações estão corretas e podem ser divulgadas.","65,26","0,687","0,191","O conselho fiscal analisou as demonstrações contábeis do segundo trimestre de 2025.  
+As demonstrações foram revisadas por auditorias independentes e aprovadas sem ressalvas.  
+A administração da empresa e os auditores forneceram esclarecimentos completos.  
+O conselho não encontrou nenhum problema nas informações contábeis apresentadas.  
+As demonstrações podem ser divulgadas com confiança, sem riscos ou falhas detectadas.","25,40","0,681","0,263"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=919888&numVersao=1&numProtocolo=1395176&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"RESGATE ANTECIPADO DAS DEBÊNTURES DA 2ª SÉRIE DA 4ª EMISSÃO.
+ITAÚSA S.A. (“Companhia” ou “Itaúsa”) (B3: ITSA3, ITSA4) comunica que, em continuidade à estratégia de desalavancagem iniciada ao final de 2022, realizará o resgate antecipado da totalidade das debêntures da 2ª série da 4ª emissão, no valor de R$ 1,25 bilhão, acrescido da remuneração e do prêmio, conforme termos definidos na escritura de emissão celebrada em 31 de maio de 2021.  
+O resgate antecipado será realizado em 15 de julho de 2025, mediante comunicação prévia aos debenturistas e demais agentes, em atendimento ao disposto na escritura de emissão, com desembolso total de aproximadamente R$ 1,3 bilhão. Para o resgate, serão utilizados os recursos obtidos no aumento de capital, concluído em maio deste ano, que visou reforçar o caixa da Companhia e ampliar o nível de liquidez. 
+A série que será resgatada possui amortizações iguais em 2029, 2030 e 2031, e custo de CDI+2,0% ao ano. O pré-pagamento permitirá à Itaúsa reduzir o custo médio das suas dívidas de CDI+1,54% para CDI+1,37% ao ano e a dívida bruta em aproximadamente 30%.  
+O resgate antecipado faz parte da estratégia de gestão de passivos da Itaúsa, reforçando sua disciplina financeira e perfil conservador, conferindo à Companhia após a conclusão da operação: (i) diminuição do endividamento bruto, do custo médio da dívida e das despesas financeiras; (ii) redução da concentração de amortização em 2029, 2030 e 2031; e (iii) redução do risco de refinanciamento e preservação dos níveis de liquidez.","43,82","Itaúsa vai resgatar antecipadamente R$ 1,25 bilhão em debêntures da 4ª emissão, em 15 de julho de 2025, usando recursos de aumento de capital. O resgate reduzirá o custo médio da dívida de CDI+2,0% para CDI+1,37% e diminuirá o endividamento em cerca de 30%. Isso fortalece a disciplina financeira, reduz a concentração de pagamentos em 2029, 2030 e 2031, e melhora a liquidez da empresa.","59,58","0,776","0,264","Itaúsa realizará resgate antecipado de R$ 1,25 bilhão de debêntures.  
+O pagamento ocorrerá em 15/07/2025, seguindo os termos da escritura de emissão.  
+O resgate usará recursos do aumento de capital feito em maio de 2025.  
+A operação reduzirá o custo médio da dívida de CDI+1,54% para CDI+1,37%.  
+A Itaúsa diminuirá seu endividamento bruto e o risco de refinanciamento.  
+O resgate também reduzirá a concentração de amortização em 2029, 2030 e 2031.","63,19","0,759","0,289","Itaúsa informa que resgatará antecipadamente suas debêntures em 15/07/2025.  
+O resgate será feito com cerca de R$ 1,3 bilhão, usando recursos do aumento de capital.  
+A operação segue a escritura de emissão e beneficia a disciplina financeira da empresa.  
+O custo médio das dívidas caiu de CDI+2,0% para CDI+1,37% ao ano.  
+A Itaúsa reduzirá seu endividamento e o risco de refinanciamento.  
+O resgate ajuda a manter níveis elevados de liquidez e estabilidade.","56,63","0,737","0,293","Itaúsa resgata debêntures no valor de R$ 1,25 bilhão.  
+Resgate ocorre em 15 de julho de 2025.  
+Custo médio da dívida cai de CDI+2,0% para CDI+1,54%.  
+Dívida bruta reduz em cerca de 30%.  
+Endividamento e risco de refinanciamento diminuem.","84,16","0,709","0,159","A empresa vai comprar de volta seus títulos de dívida antes do prazo.  
+Isso vai acontecer em 15 de julho de 2025, com desembolso de cerca de R$ 1,3 bilhão.  
+O pagamento será feito com dinheiro extra recebido de um aumento de capital.  
+O custo das dívidas da empresa caiu de CDI+2,0% para CDI+1,37% ao ano.  
+A empresa passa a ter menos dívida, menos gastos com juros e mais liquidez.","89,23","0,705","0,285"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=941217&numVersao=1&numProtocolo=1416505&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"A KLABIN S.A. (“Klabin” ou “Companhia”), para os fins da Resolução da Comissão de Valores Mobiliários (“CVM”) n.º 44, de 23 de agosto de 2021, conforme alterada, informa aos seus acionistas e ao mercado em geral, em continuidade ao Fato Relevante divulgado em 23 de julho de 2025 (acesse aqui), o encerramento da oferta da sua 1ª (primeira) emissão de cédulas de produto rural com liquidação financeira, escriturais, em até 2 (duas) séries, com valor nominal unitário de R$ 1.000,00 (mil reais), perfazendo o montante total de R$ 1.500.000.000,00 (um bilhão e quinhentos milhões de reais) (“CPR-Fs” e “Emissão”, respectivamente), nos termos do instrumento particular de “Termos e Condições da 1ª (Primeira) Emissão de Cédulas de Produto 
+Rural com Liquidação Financeira, Escriturais, em 2 (Duas) Séries, para Distribuição Pública, sob Rito de Registro Automático de Distribuição da Klabin S.A.”, celebrado em 23 de julho de 2025, entre a Companhia e a Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A., na qualidade de agente de CPR-F representando a comunhão dos titulares das CPR-Fs (“Termo de Emissão”). 
+As CPR-Fs de ambas as séries foram objeto de distribuição pública, sob o rito de registro automático, destinada ao público investidor em geral, sob a intermediação de instituições integrantes do sistema de distribuição de valores mobiliários, nos termos da Resolução da CVM nº 160, de 13 de julho de 2022, conforme alterada (“Oferta”). 
+No âmbito da Oferta de ambas as séries, foi realizado o procedimento de coleta de intenções de investimento, com recebimento de reservas dos investidores, sem lotes mínimos ou máximos, conduzido pelos coordenadores da Oferta, para definição da taxa final da remuneração de cada série e da quantidade de CPR-Fs a serem alocadas em cada série (“Procedimento de Bookbuilding”), observado o sistema de vasos comunicantes e a alocação mínima prevista para as CPR-Fs Primeira Série, correspondente a 250.000 (duzentas e cinquenta mil) CPR-Fs Primeira Série, perfazendo o montante total de R$ 250.000.000,00 (duzentas e cinquenta milhões de reais). 
+Condições da Primeira Série: 
+Foram emitidas 300.000 (trezentas mil) CPR-Fs da Primeira Série, com Valor Nominal Unitário de R$ 1.000,00 (mil reais), perfazendo o montante total de R$ 300.000.000,00 (trezentos milhões de reais). A Primeira Série das CPR-Fs tem prazo de 7 (sete) anos, com vencimento em 15 de agosto de 2032. Sobre o valor nominal unitário incidirão juros remuneratórios equivalentes a 95,50% (noventa e cinco inteiros e cinquenta centésimos por cento) da Taxa DI, base 252 dias úteis, calculados de forma exponencial e cumulativa pro rata temporis. Não haverá atualização monetária. O pagamento dos juros será realizado semestralmente, nos dias 15 de fevereiro e 15 de agosto de cada ano, e a amortização do valor nominal ocorrerá em parcela única na data de vencimento. A liquidação será exclusivamente financeira, sem garantias reais ou fidejussórias. 
+Condições da Segunda Série: 
+Foram emitidas 1.200.000 (um milhão e duzentas mil) CPR-Fs da Segunda Série, com Valor Nominal Unitário de R$ 1.000,00 (mil reais), perfazendo o montante total de R$ 1.200.000.000,00 (um bilhão e duzentos milhões de reais). A Segunda Série das CPR-Fs tem prazo de 10 (dez) anos, com vencimento em 15 de agosto de 2035. Sobre o valor nominal unitário atualizado incidirão juros remuneratórios equivalentes 7,1596% (sete inteiros e mil quinhentos e noventa e seis décimos de milésimo por cento). O valor nominal será atualizado monetariamente pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), calculado pro rata temporis. O pagamento dos juros remuneratórios será realizado semestralmente, nos dias 15 de fevereiro e 15 de agosto de cada ano, e a amortização do valor nominal atualizado ocorrerá em parcela única na data de vencimento. A liquidação será exclusivamente financeira, sem garantias reais ou fidejussórias. 
+Os recursos desta Oferta serão direcionados para atividades do objeto social da Companhia, incluindo, mas não se limitando a atividades de produção, beneficiamento ou industrialização de produtos relacionados à silvicultura e à agricultura, inclusive florestamento e reflorestamento.  
+A ata de Reunião do Conselho de Administração da Companhia que aprovou os termos e condições da Emissão, bem como as demais informações acerca da Emissão e da Oferta, está disponível para consulta no site da Companhia (ri.klabin.com.br) e da CVM (cvm.gov.br). 
+A Klabin manterá seus acionistas e o mercado em geral informados sobre a existência de novos desdobramentos relevantes vinculados à Emissão. 
+Este Fato Relevante tem caráter exclusivamente informativo, nos termos da regulamentação em vigor, e não constitui e nem deve ser interpretado como qualquer esforço de venda da Emissão.","55,96","A Klabin informa o encerramento da oferta de sua primeira emissão de cédulas de produto rural (CPR-Fs), no valor total de R$ 1,5 bilhão, em duas séries. A primeira série, com 300 mil CPR-Fs, tem prazo de 7 anos e rende juros baseados na Taxa DI, pagos semestralmente, sem atualização monetária. A segunda série, com 1,2 milhões de CPR-Fs, tem 10 anos, rende juros de 7,1596% e tem atualização do valor baseada no IPCA, também com pagamentos semestrais. Ambas as séries são líquidas apenas financeiramente, sem garantias. Os recursos vão para atividades de produção e beneficiamento em silvicultura e agricultura. A aprovação foi feita pelo Conselho de Administração e está disponível no site da Klabin e da CVM. O texto é informativo e não é um chamado para investimento.","63,82","0,683","0,175","A Klabin informa o encerramento da oferta de sua primeira emissão de cédulas de produto rural.  
+A oferta foi feita para o público investidor, sem mínimos de lote, sob rito de registro automático.  
+A Primeira Série tem valor de R$ 300 milhões, prazo de 7 anos, com juros baseados na DI e vencimento em 15/08/2032.  
+A Segunda Série tem R$ 1,2 bilhão, prazo de 10 anos, com juros de 7,1596% e atualização com o IPCA, vencimento em 15/08/2035.  
+Os recursos vão para produção e beneficiamento de produtos de silvicultura e agricultura.  
+A Klabin seguirá informando os acionistas sobre novos desdobramentos da oferta.","66,06","0,675","0,139","A Klabin informa o encerramento da oferta de cédulas de produto rural.  
+Foram emitidas duas séries de cédulas com valores totais de R$ 1,5 bilhão.  
+A Primeira Série tem vencimento em 15/08/2032 e rende juros baseados na Taxa DI.  
+A Segunda Série tem vencimento em 15/08/2035 e tem atualização monetária com o IPCA.  
+Os recursos vão para atividades de produção e silvicultura da companhia.  
+A Klabin seguirá informando os investidores sobre novas atualizações.","63,19","0,690","0,099","Klabin encerra oferta de cédulas rurais.  
+Oferta total de R$ 1,5 bilhão em duas séries.  
+Primeira série: 300 mil cédulas, 7 anos, juros baseados em DI.  
+Segunda série: 1,2 milhão de cédulas, 10 anos, juros com atualização por IPCA.  
+Recursos destinados a silvicultura e agricultura.","68,29","0,639","0,061","A empresa Klabin fez uma compra de títulos para investidores do público em geral.  
+
+O valor total da compra foi de um bilhão e quinhentos milhões de reais, dividido em duas séries.  
+
+A primeira série tem sete anos e paga juros baseados na taxa DI, sem atualização do valor.  
+
+A segunda série tem dez anos, com juros fixos e atualização do valor conforme o IPCA.  
+
+Os recursos vão ser usados para atividades de agricultura e silvicultura.  
+
+A empresa manterá os investidores informados sobre novas atualizações.","61,27","0,655","0,115"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=939639&numVersao=1&numProtocolo=1414927&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"A Klabin S.A. (""Klabin"" ou ""Companhia""), em continuidade aos Fatos Relevantes de 29 de outubro de 2024 (clique aqui para acessar) e de 3 de fevereiro de 2025 (clique aqui para acessar) e ao Comunicado ao Mercado de 30 de junho de 2025 (clique aqui para acessar), informa aos seus acionistas e ao mercado em geral que celebrou, na data de hoje, acordos com o BTG Pactual Timberland Investment Group  (“TIMO” ou “BTG Pactual TIG”) e a British Columbia Investment Management Corporation (“BCI”), um dos maiores investidores institucionais do Canadá, com o propósito de que o BCI e o BTG Pactual TIG realizem os aportes adicionais nas SPEs do Projeto Plateau (“Projeto”).  
+Os aportes adicionais, que somam R$ 1,2 bilhão, deverão ser realizados até o final do quarto trimestre de 2025 e estarão sujeitos a eventuais ajustes, nos termos dos acordos. 
+A realização dos aportes adicionais está sujeita a condições precedentes usuais, incluindo a aprovação pelas autoridades regulatórias competentes.  
+Considerando os referidos aportes, a Klabin alcançará o montante de R$ 2,7 bilhões no âmbito do Projeto Plateau, conforme anunciado originalmente em outubro de 2024. Este movimento reforça o compromisso da Companhia com a disciplina na alocação de capital, a redução da alavancagem e a otimização do ROIC, consolidando a criação de valor sustentável para todos os seus stakeholders.","41,85","A Klabin celebrou acordos hoje com o BTG Pactual TIG e a BCI para realizar aportes adicionais no Projeto Plateau, somando R$ 1,2 bilhão, a serem feitos até o fim do quarto trimestre de 2025. Os aportes estão sujeitos a ajustes e aprovação de autoridades. Com isso, a Klabin atingirá R$ 2,7 bilhões no projeto, reforçando seu foco em disciplina na alocação de capital, redução da dívida e melhoria do rendimento para todos os stakeholders.","55,78","0,750","0,344","A Klabin informa que firmou acordos com TIMO e BCI para aportes no Projeto Plateau.  
+
+Os aportes adicionais totalizam R$ 1,2 bilhão e devem ser feitos até 31/12/2025.  
+
+O pagamento aos donos de ações depende de condições normais e aprovação de autoridades.  
+
+Com os novos aportes, a Klabin atingirá R$ 2,7 bilhões no Projeto Plateau.  
+
+Essa decisão reforça o compromisso com disciplina e otimização do retorno de investimento.","62,67","0,734","0,312","A Klabin informa que firmou acordos para receber aportes adicionais de investidores.  
+Os investimentos somam R$ 1,2 bilhão e devem ser feitos até 31/12/2025.  
+Os pagamentos seguirão ajustes conforme acordos firmados hoje.  
+A empresa atingirá R$ 2,7 bilhões no Projeto Plateau.  
+Isso reforça seu compromisso com disciplina na alocação de capital.  
+A ação ajuda a reduzir a dívida e aumentar o retorno para os donos de ações.","59,28","0,732","0,307","Klabin celebra acordos com investidores para aportes no Projeto Plateau.  
+Aportes adicionais somam R$ 1,2 bilhão e serão feitos até o final de 2025.  
+Klabin atingirá R$ 2,7 bilhão no projeto, reforçando disciplina no capital.  
+A alocação está sujeita a aprovação de autoridades.  
+O movimento reduz alavancagem e otimiza retorno de investimento.","42,04","0,727","0,239","A empresa fez um novo acordo para aumentar o investimento no projeto Plateau.  
+
+Dois bancos e investidores viraram parceiros para fazer a compra de novos ativos.  
+
+O valor total dos investimentos chegou a R$ 2,7 bilhões, como anunciado anteriormente.  
+
+A empresa garante que o dinheiro será usado com responsabilidade e foco em gerar valor para todos.  
+
+O processo depende de aprovações regulatórias e pode sofrer ajustes.","48,36","0,677","0,303"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=928181&numVersao=1&numProtocolo=1403469&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"A KLABIN S.A. (“Klabin” ou “Companhia”), para os fins da Resolução CVM n.º 44, de 23 de agosto de 2021, conforme alterada, informa aos seus acionistas e ao mercado em geral que seu Conselho de Administração aprovou, em reunião realizada no dia 23 de julho de 2025, a realização da sua 1ª (primeira) emissão de cédulas de produto rural com liquidação financeira, escriturais, em até 2 (duas) séries, com valor nominal unitário de R$ 1.000,00 (mil reais), perfazendo o montante total de R$ 1.500.000.000,00 (um bilhão e quinhentos milhões de reais) (“CPR-Fs” e “Emissão”, respectivamente), nos termos do ""Termos e Condições da 1ª (Primeira) Emissão de Cédulas de Produto Rural com Liquidação Financeira, Escriturais, em 2 (Duas) Séries, para Distribuição Pública, sob o Rito de Registro Automático de Distribuição da Klabin S.A."", celebrado em 23 de julho de 2025, entre a Companhia e a Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A., na qualidade de agente de CPR-F representando a comunhão dos titulares das CPR-Fs (“Termo de Emissão”). 
+As CPR-Fs de ambas as séries serão objeto de distribuição pública, sob o rito de registro automático, destinada ao público investidor em geral, com intermediação de instituições integrantes do sistema de distribuição de valores mobiliários, conforme a Resolução CVM nº 160, de 13 de julho de 2022, conforme alterada (“Oferta”). 
+Condições da Primeira Série: 
+A Primeira Série das CPR-Fs terá prazo de 7 (sete) anos, com vencimento em 15 de agosto de 2032. Sobre o valor nominal unitário incidirão juros remuneratórios, a serem definido em Procedimento de Bookbuilding (conforme definido abaixo), limitados a 95,50% da Taxa DI, base 252 dias úteis, calculados de forma exponencial e cumulativa pro rata temporis. Não haverá atualização monetária. O pagamento dos juros será realizado semestralmente, nos dias 15 de fevereiro e 15 de agosto de cada ano, e a amortização do valor nominal ocorrerá em parcela única na data de vencimento. A liquidação será exclusivamente financeira, sem garantias reais ou fidejussórias. 
+Condições da Segunda Série: 
+A Segunda Série das CPR-Fs terá prazo de 10 (dez) anos, com vencimento em 15 de agosto de 2035. Sobre o valor nominal unitário atualizado incidirão juros remuneratórios, a serem definido em Procedimento de Bookbuilding, equivalentes à maior taxa entre: (i) a taxa interna de retorno do Tesouro IPCA+ com Juros Semestrais (NTN-B 2035), acrescida exponencialmente de uma taxa negativa de -0,40% ao ano, ou (ii) 6,90% ao ano, base 252 dias úteis, calculados de forma exponencial e cumulativa pro rata temporis. O valor nominal será atualizado monetariamente pelo Índice Nacional de Preços ao Consumidor Amplo (IPCA), calculado pro rata temporis. O pagamento dos juros remuneratórios será realizado semestralmente, nos dias 15 de fevereiro e 15 de agosto de cada ano, e a amortização do valor nominal atualizado ocorrerá em parcela única 1 na data de vencimento. A liquidação será exclusivamente financeira, sem garantias reais ou fidejussórias. 
+Ademais, no âmbito da Oferta de ambas as séries, será realizado procedimento de coleta de intenções de investimento, com recebimento de reservas dos investidores, sem lotes mínimos ou máximos, conduzido pelos coordenadores da Oferta, para definição da taxa final da remuneração de cada série e da quantidade de CPR-Fs a serem alocadas em cada série (“Procedimento de Bookbuilding”), observado o sistema de vasos comunicantes e a alocação mínima prevista para as CPR-Fs Primeira Série correspondente a 250.000 (duzentas e cinquenta mil) CPR-Fs Primeira Série, equivalentes a R$250.000.000,00 (duzentos e cinquenta milhões de reais). 
+Os recursos desta Oferta serão direcionados para atividades do seu objeto social, incluindo, mas não se limitando a atividades de produção, beneficiamento ou industrialização de produtos relacionados à silvicultura e à agricultura, inclusive florestamento e reflorestamento. 
+A conclusão da Oferta está sujeita ao atendimento de determinadas condições precedentes, conforme previstas nos documentos da Emissão. 
+A ata da Reunião do Conselho de Administração da Companhia que aprovou os termos e condições da Emissão, bem como as demais informações acerca da Emissão e da Oferta, está disponível para consulta no site da Companhia (ri.klabin.com.br) e da CVM (cvm.gov.br).  
+A Klabin manterá seus acionistas e o mercado em geral informados sobre a existência de novos desdobramentos relevantes vinculados à Emissão. 
+Este Fato Relevante tem caráter exclusivamente informativo, nos termos da regulamentação em vigor, e não constitui e nem deve ser interpretado como qualquer esforço de venda da Emissão.  ","46,79","A Klabin informa que seu Conselho de Administração aprovou, em 23 de julho de 2025, a emissão de cédulas de produto rural (CPR-Fs) em duas séries, no valor total de R$ 1,5 bilhão. As CPR-Fs serão vendidas ao público por meio de um procedimento automático, com intermediação de instituições de distribuição.  
+
+A primeira série tem 7 anos, vence em 15 de agosto de 2032, paga juros semestrais com limite de 95,50% da taxa DI, sem atualização de valor e sem garantias. A segunda série tem 10 anos, vence em 15 de agosto de 2035, com juros baseados em uma das duas opções: a taxa do Tesouro IPCA+ com ajuste de -0,40% ou 6,90%, com atualização de valor conforme o IPCA. Também paga juros semestrais e tem amortização única no vencimento.  
+
+A taxa final será definida por um processo de Bookbuilding, com reserva de investidores sem limite de quantidade, respeitando um mínimo de 250 mil CPR-Fs na primeira série, no valor de R$250 milhões. Os recursos vão para atividades de produção e beneficiamento de produtos agrícolas e florestais.  
+
+A oferta depende de condições prévias. O documento da reunião do conselho está disponível no site da Klabin e da CVM. A Klabin informará futuros desenvolvimentos, mas este aviso é apenas informativo e não é uma campanha de venda.","65,21","0,700","0,302","A Klabin informou que seu conselho aprovou a primeira emissão de cédulas de produto rural.  
+A emissão será feita em duas séries, com valor nominal de R$1.000,00 cada, totalizando R$1,5 bilhão.  
+A primeira série terá vencimento em 15/08/2032, com juros baseados na Taxa DI, limitados a 95,50%.  
+A segunda série terá vencimento em 15/08/2035, com juros ajustados ao IPCA e limite de 6,90% ao ano.  
+Os recursos serão usados para atividades de produção e beneficiamento de produtos agroflorestais.  
+A oferta está sujeita a condições prévias e pode ser acompanhada no site da Klabin e da CVM.","72,03","0,690","0,134","A Klabin aprovou a primeira emissão de cédulas de produto rural em 23 de julho de 2025.  
+A emissão terá duas séries, no valor total de R$1,5 bilhão, e será divulgada para o público investidor.  
+A primeira série tem vencimento em 15/08/2032, com juros limitados a 95,50% da Taxa DI.  
+A segunda série tem vencimento em 15/08/2035, com juros baseados em taxa de referência ou em 6,90%, ajustada pelo IPCA.  
+Os recursos serão usados para atividades de produção e beneficiamento de produtos agrícolas e florestais.  
+A oferta segue regras de coleta de intenções e será informada aos acionistas e ao mercado.","68,18","0,689","0,141","- Klabin aprova emissão de cédulas de produto rural em 23 de julho de 2025.  
+- Emissão tem valor total de R$1,5 bilhão, em duas séries.  
+- Primeira série tem vencimento em 2032, com juros limitados a 95,5% da Taxa DI.  
+- Segunda série tem vencimento em 2035, com juros baseados em IPCA+ ou 6,9%, com atualização monetária.  
+- Juros pagos semestralmente; liquidação é exclusivamente financeira.  
+- Recursos vão para produção e beneficiamento de produtos agrícolas e silviculturais.","61,21","0,671","0,109","A empresa decidiu emitir novas cédulas para financiar suas atividades agrícolas e florestais.  
+
+As cédulas terão prazo de 7 ou 10 anos, com juros definidos em um processo de coleta de intenções dos investidores.  
+
+A primeira série paga juros fixos e vence em 2032, sem atualização do valor.  
+
+A segunda série tem juros variáveis, com base no IPCA, e o valor será ajustado conforme a inflação.  
+
+Os recursos vão ser usados para produzir produtos na área rural e florestal.  
+
+A oferta está aberta para todos os investidores, sem exigências de quantidade mínima.","55,80","0,656","0,129"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=954670&numVersao=1&numProtocolo=1429958&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"A Transmissora Aliança de Energia Elétrica S.A. (B3: TAEE3, TAEE4 e TAEE11)  (“TAESA” ou “Companhia”) vem, com base no artigo 12 da Resolução CVM nº44, de 23 de agosto de 2021, informar aos seus acionistas, ao mercado em geral e demais interessados que, em 3 de outubro de 2025, recebeu correspondência enviada pela BlackRock, Inc. (“BlackRock”) informando que aumentou sua participação na Companhia e em 1º de outubro de 2025 passou a deter 22.158.456 (vinte e dois milhões, cento e cinquenta e oito mil, quatrocentos e cinquenta e seis) ações preferenciais da Companhia, representando 5,004% do total de ações preferenciais, e 2.369.743 instrumentos financeiros derivativos referenciados em ações preferenciais com liquidação financeira, representando aproximadamente 0,535% do total de ações preferenciais emitidas pela Companhia.  
+Conforme consta da correspondência recebida, a BlackRock declara que: 
+a) o objetivo das participações societárias acima mencionadas é estritamente de investimento, não objetivando alteração do controle acionário ou da estrutura administrativa da Companhia; e 
+b) não foram celebrados, pela BlackRock, quaisquer contratos ou acordos que regulem o exercício de direito de voto ou a compra e venda de valores mobiliários emitidos pela Companhia.  
+A íntegra da correspondência encontra-se anexa a este comunicado.  ","44,44","A Transmissora Aliança de Energia Elétrica S.A. (TAESA) informa que, em 3 de outubro de 2025, a BlackRock aumentou sua participação na empresa, passando a detém 22,158,456 ações preferenciais (5,004% do total) e 2,369,743 derivativos (0,535% do total). A BlackRock afirma que o investimento é apenas para fins de investimento, não visa mudar o controle ou a gestão da empresa, e não assinou nenhum contrato sobre voto ou compra/venda de ações. A correspondência completa está anexa.","69,63","0,775","0,390","Em 03/10/2025, a TAESA recebeu informação da BlackRock sobre aumento de participação.  
+
+A BlackRock aumentou suas ações preferenciais para 22.158.456, correspondendo a 5,004% do total.  
+
+O aumento é apenas para investimento, sem alterar o controle ou administração da empresa.  
+
+A BlackRock não firmou acordos sobre voto ou compra e venda de ações.  
+
+A correspondência completa está anexada ao comunicado.","63,75","0,730","0,303","A TAESA informa que a BlackRock aumentou sua participação em 3 de outubro de 2025.  
+A BlackRock passou a detém 22.158.456 ações preferenciais, representando 5,004% do total.  
+O aumento de participação segue apenas fins de investimento, sem alterar o controle.  
+A BlackRock não firmou acordos sobre voto ou compra e venda de ações.  
+A correspondência completa está anexa ao comunicado.","70,50","0,742","0,308","- BlackRock aumentou sua participação na TAESA em 3 de outubro de 2025.  
+- A empresa passou a ter 22,158,456 ações preferenciais, ou 5,004%.  
+- BlackRock afirmou que o investimento não altera o controle ou administração da empresa.  
+- Não houve acordos sobre voto ou compra/venda de ações.","78,03","0,726","0,246","A BlackRock comprou mais ações da empresa e passou a ter 5,004% delas.  
+
+Essa compra foi só para investir, não para mudar o controle da empresa.  
+
+A BlackRock não fez acordos para votar ou comprar mais ações.  
+
+O aumento de participação não afetou a gestão ou a liderança da empresa.  
+
+A empresa informou o fato para todos os acionistas e interessados.","79,33","0,671","0,313"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=906727&numVersao=1&numProtocolo=1382015&descTipo=IPE&CodigoInstituicao=1,COMUNICADO,"A Transmissora Aliança de Energia Elétrica S.A. (B3: TAEE3, TAEE4 e TAEE11) (“TAESA” ou “Companhia”) vem a público informar aos seus acionistas e ao mercado em geral que o Sr. Fábio Antunes Fernandes apresentou hoje, 22 de maio de 2025, a sua carta de renúncia ao cargo de Diretor de Negócios com efeito imediato. 
+O Conselho de Administração da Companhia, em reunião realizada na mesma data, elegeu Mauricio Dall'Agnese como novo Diretor de Negócios, com posse a partir de amanhã, 23 de maio, conforme mandato definido nos termos do Estatuto Social.  
+O Sr. Mauricio é formado em Economia pela Universidade de São Paulo, com cursos na New York University (EUA) e no IESE (Espanha).  Liderou equipes no Brasil e nos Estados Unidos de fusões e aquisições, expansão corporativa, desenvolvimento de projetos, gestão de participações, planejamento financeiro, gestão regulatória, comercialização de energia, meio ambiente, sustentabilidade, estratégia e inovação.  No setor elétrico, o Sr. Mauricio possui experiência nos segmentos de transmissão, distribuição, geração e comercialização de energia, e distribuição de gás com atuação em diversas empresas, como Cemig, ISA Energia, Vale, Aliança, Belo Monte, entre outras. 
+A Companhia e seu Conselho de Administração agradecem ao Sr. Fábio pelos 15 anos de dedicação e relevantes serviços em prol da Companhia e de todos os seus colaboradores. Sua liderança e contribuições foram fundamentais para o crescimento alcançado pela TAESA durante esse período.","45,86","A Transmissora Aliança de Energia Elétrica S.A. (TAESA) informa que o Sr. Fábio Antunes Fernandes renunciou hoje, 22 de maio de 2025, ao cargo de Diretor de Negócios, com efeito imediato. Em reunião da mesma data, o Conselho de Administração escolheu o Sr. Mauricio Dall'Agnese como novo Diretor de Negócios, com posse a partir de amanhã, 23 de maio. O Sr. Mauricio é economista, com formação na USP e cursos em NYU e IESE. Tem experiência em fusões, expansão, gestão e negócios no setor elétrico, atuando em empresas como Cemig, ISA Energia, Vale, Aliança e Belo Monte. A TAESA agradece ao Sr. Fábio pelos 15 anos de dedicação e pelo seu papel fundamental no crescimento da empresa.","72,92","0,824","0,513","A TAESA informou a renúncia do Sr. Fábio Antunes Fernandes como Diretor de Negócios.  
+
+O Conselho escolheu o Sr. Mauricio Dall’Agnese como novo Diretor de Negócios a partir de 23/05/2025.  
+
+Mauricio tem formação em Economia e experiência em fusões, expansão e gestão em empresas de energia.  
+
+Ele atuou em transmissão, distribuição, geração e comercialização de energia em diversas empresas.  
+
+A TAESA agradece ao Fábio por 15 anos de dedicação e contribuições para o crescimento da companhia.","60,68","0,774","0,333","A TAESA informa a renúncia do Sr. Fábio Antunes Fernandes como Diretor de Negócios.  
+Maurício Dall’Agnese foi eleito para o cargo com posse a partir de 23/05/2025.  
+Ele tem formação em Economia e experiência em negócios de energia e fusões.  
+Maurício atuou em empresas como Cemig, ISA Energia e Belo Monte.  
+A TAESA agradece ao Fábio pelos 15 anos de dedicação e contribuições.","71,03","0,759","0,276","Fábio renuncia ao cargo de Diretor de Negócios.  
+Mauricio Dall'Agnese é eleito novo Diretor de Negócios.  
+Mauricio tem formação em Economia e experiência em energia e negócios.  
+Ele atuou em empresas como Cemig, Vale e Aliança.  
+Fábio foi diretor por 15 anos e teve grande contribuição.","62,89","0,717","0,202","Fábio Antunes deixou o cargo de Diretor de Negócios da TAESA.  
+O conselho escolheu Mauricio Dall'Agnese como novo diretor, a partir de amanhã.  
+Mauricio tem formação em economia e experiência em empresas de energia e gás.  
+Ele trabalhou em fusões, expansão e gestão em empresas como Cemig e Vale.  
+A TAESA agradece ao Fábio por 15 anos de trabalho e contribuições importantes.","64,16","0,757","0,272"
+https://www.rad.cvm.gov.br/ENET/frmDownloadDocumento.aspx?Tela=ext&numSequencia=976670&numVersao=1&numProtocolo=1451958&descTipo=IPE&CodigoInstituicao=1,FATO_RELEVANTE,"A EMBRAER S.A. (“Companhia”), em cumprimento ao disposto no artigo 157, §4º da Lei 6.404 de 15 de dezembro de 1976, conforme alterada (“Lei das Sociedades por Ações”), bem como na Resolução nº 44, de 23 de agosto de 2021, conforme alterada, e na Resolução CVM nº 77, de 29 de março de 2022 (“Resolução CVM 77”), informa a seus acionistas e ao mercado em geral que o programa de recompra de ações aprovado pelo Conselho de Administração em 6 de novembro de 2025 (“Programa de Recompra”) foi concluído nesta data, em razão da aquisição da totalidade das ações ordinárias previstas no Programa de Recompra. 
+O Programa de Recompra tinha por objetivo a aquisição de ações ordinárias de emissão da Companhia para permanência em tesouraria, cancelamento ou posterior alienação, bem como para atender compromissos assumidos no âmbito de planos de remuneração baseados em ações. O prazo de vigência do Programa era de 12 (doze) meses, com término previsto para 6 de novembro de 2026, sendo encerrado antecipadamente nesta data. 
+Durante a execução do Programa de Recompra, foram adquiridas 10.800.000 (dez milhões, oitocentas mil) ações ordinárias de emissão da Companhia, respeitados os limites legais e regulamentares, utilizando exclusivamente recursos disponíveis, conforme previsto na Resolução CVM 77. 
+A Companhia reitera que as operações realizadas no âmbito do Programa de Recompra não acarretaram impactos sobre sua estrutura acionária ou administrativa e que sua situação financeira permaneceu compatível com a execução das aquisições, sem prejuízo ao cumprimento das obrigações assumidas com credores. ","40,29","A EMBRAER S.A. informa que o programa de recompra de ações aprovado em 6 de novembro de 2025 foi encerrado nesta data, com a compra de 10,8 milhões de ações ordinárias. O programa tinha por objetivo comprar ações para manter em tesouraria, cancelar ou vender, ou para cumprir obrigações de remuneração com ações. O prazo era de 12 meses, até 6 de novembro de 2026, mas foi encerrado antecipadamente. As aquisições foram feitas com recursos próprios, respeitando as normas legais. As operações não afetaram a estrutura acionária ou a administração, nem comprometeram a situação financeira ou as obrigações com credores.","59,87","0,757","0,403","A EMBRAER informa que o programa de recompra de ações foi concluído em 06/11/2025.  
+
+O programa tinha como objetivo comprar ações para manter em tesouraria ou cancelar.  
+
+Foram adquiridas 10.800.000 ações, respeitando os limites legais e usando recursos próprios.  
+
+A empresa afirma que o programa não alterou sua estrutura acionária nem sua situação financeira.  
+
+O pagamento aos donos de ações não foi afetado pelo programa de recompra.","65,77","0,722","0,270","A EMBRAER informa que encerrou o programa de recompra de ações em 06/11/2025.  
+O programa tinha como objetivo comprar ações para tesouraria ou remuneração dos donos de ações.  
+Foram adquiridas 10.800.000 ações dentro dos limites legais e usando recursos próprios.  
+A recompra não alterou a estrutura acionária nem afetou a situação financeira da empresa.  
+A EMBRAER garante que todos os compromissos com credores foram cumpridos.","63,50","0,718","0,262","- EMBRAER avisa que encerrou o programa de recompra de ações.  
+- O programa foi concluído em 6 de novembro de 2025, antecipadamente.  
+- Foram compradas 10,8 milhões de ações da empresa.  
+- As aquisições usaram recursos próprios e não afetaram a estrutura da empresa.  
+- A situação financeira da EMBRAER permaneceu estável.","57,60","0,701","0,214","A empresa fez uma compra de suas próprias ações para manter em tesouraria.  
+O programa durou 12 meses, mas acabou antes do prazo previsto.  
+Foram compradas 10,8 milhões de ações com dinheiro da empresa.  
+A ação não mudou a estrutura da empresa nem afetou os credores.  
+A empresa garante que tudo foi feito dentro das regras e com recursos próprios.","79,73","0,672","0,242"
