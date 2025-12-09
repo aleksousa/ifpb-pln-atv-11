@@ -14,7 +14,8 @@ O projeto é organizado em módulos Python, garantindo modularidade para o geren
 | **`metrics.py`** | Centraliza as funções de cálculo de métricas de avaliação. |
 | **`Qwen4.py`, `Qwen8.py`, `Qwen14.py`** | Implementações específicas para os modelos Transformer Qwen (4B, 8B e 14B). |
 | **`prompts.py`** | Define e armazena as diferentes técnicas de *prompting* utilizadas. |
-| **`corpus_orig.csv`** | Contém o *corpus* de textos originais extraídos de relatórios financeiros. |
+| **`corpus_orig.csv`** | Contém o *corpus* de textos originais extraídos de relatórios financeiros. | result_corpus_FINAL.csv
+| **`result_corpus_FINAL.csv`** | Contém o *dataset* final, gerado após execução de todos os modelos e técnicas de prompt. |
 | **`main.py`** | O orquestrador principal, responsável pela execução dos modelos e processamento dos resultados. |
 
 ---
